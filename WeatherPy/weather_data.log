@@ -1,0 +1,1201 @@
+2024-04-10 19:28:46,072 - INFO - Beginning Data Retrieval
+2024-04-10 19:28:46,075 - INFO - -----------------------------
+2024-04-10 19:28:46,076 - INFO - Processing Record 1 of Set 1 | punta alta
+2024-04-10 19:28:46,518 - ERROR - Request failed for punta alta: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=punta+alta&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:46,518 - INFO - Processing Record 2 of Set 1 | shar'ya
+2024-04-10 19:28:46,745 - ERROR - Request failed for shar'ya: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=shar%27ya&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:46,745 - INFO - Processing Record 3 of Set 1 | saipan
+2024-04-10 19:28:46,985 - ERROR - Request failed for saipan: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=saipan&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:46,986 - INFO - Processing Record 4 of Set 1 | albany
+2024-04-10 19:28:47,355 - ERROR - Request failed for albany: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=albany&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:47,355 - INFO - Processing Record 5 of Set 1 | fortuna
+2024-04-10 19:28:47,605 - ERROR - Request failed for fortuna: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=fortuna&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:47,606 - INFO - Processing Record 6 of Set 1 | khorixas
+2024-04-10 19:28:47,829 - ERROR - Request failed for khorixas: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=khorixas&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:47,829 - INFO - Processing Record 7 of Set 1 | waitangi
+2024-04-10 19:28:48,028 - ERROR - Request failed for waitangi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=waitangi&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:48,028 - INFO - Processing Record 8 of Set 1 | port-aux-francais
+2024-04-10 19:28:48,242 - ERROR - Request failed for port-aux-francais: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=port-aux-francais&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:48,242 - INFO - Processing Record 9 of Set 1 | san angelo
+2024-04-10 19:28:48,425 - ERROR - Request failed for san angelo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=san+angelo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:48,425 - INFO - Processing Record 10 of Set 1 | blackmans bay
+2024-04-10 19:28:48,631 - ERROR - Request failed for blackmans bay: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=blackmans+bay&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:48,631 - INFO - Processing Record 11 of Set 1 | gadzhiyevo
+2024-04-10 19:28:48,817 - ERROR - Request failed for gadzhiyevo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=gadzhiyevo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:48,817 - INFO - Processing Record 12 of Set 1 | xining
+2024-04-10 19:28:49,005 - ERROR - Request failed for xining: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=xining&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:49,005 - INFO - Processing Record 13 of Set 1 | adamstown
+2024-04-10 19:28:49,189 - ERROR - Request failed for adamstown: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=adamstown&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:49,190 - INFO - Processing Record 14 of Set 1 | keflavik
+2024-04-10 19:28:49,425 - ERROR - Request failed for keflavik: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=keflavik&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:49,426 - INFO - Processing Record 15 of Set 1 | qazvin
+2024-04-10 19:28:49,655 - ERROR - Request failed for qazvin: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=qazvin&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:49,655 - INFO - Processing Record 16 of Set 1 | stanley
+2024-04-10 19:28:49,907 - ERROR - Request failed for stanley: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=stanley&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:49,907 - INFO - Processing Record 17 of Set 1 | chonchi
+2024-04-10 19:28:50,226 - ERROR - Request failed for chonchi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=chonchi&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:50,226 - INFO - Processing Record 18 of Set 1 | margaret river
+2024-04-10 19:28:50,447 - ERROR - Request failed for margaret river: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=margaret+river&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:50,448 - INFO - Processing Record 19 of Set 1 | papao
+2024-04-10 19:28:50,678 - ERROR - Request failed for papao: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=papao&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:50,678 - INFO - Processing Record 20 of Set 1 | puerto ayora
+2024-04-10 19:28:50,899 - ERROR - Request failed for puerto ayora: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=puerto+ayora&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:50,899 - INFO - Processing Record 21 of Set 1 | coquimbo
+2024-04-10 19:28:51,111 - ERROR - Request failed for coquimbo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=coquimbo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:51,111 - INFO - Processing Record 22 of Set 1 | timmins
+2024-04-10 19:28:51,491 - ERROR - Request failed for timmins: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=timmins&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:51,492 - INFO - Processing Record 23 of Set 1 | yellowknife
+2024-04-10 19:28:51,687 - ERROR - Request failed for yellowknife: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=yellowknife&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:51,687 - INFO - Processing Record 24 of Set 1 | kuta
+2024-04-10 19:28:51,897 - ERROR - Request failed for kuta: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kuta&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:51,897 - INFO - Processing Record 25 of Set 1 | grytviken
+2024-04-10 19:28:52,096 - ERROR - Request failed for grytviken: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=grytviken&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:52,097 - INFO - Processing Record 26 of Set 1 | puerto natales
+2024-04-10 19:28:52,309 - ERROR - Request failed for puerto natales: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=puerto+natales&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:52,309 - INFO - Processing Record 27 of Set 1 | punta arenas
+2024-04-10 19:28:52,527 - ERROR - Request failed for punta arenas: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=punta+arenas&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:52,527 - INFO - Processing Record 28 of Set 1 | christchurch
+2024-04-10 19:28:52,768 - ERROR - Request failed for christchurch: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=christchurch&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:52,768 - INFO - Processing Record 29 of Set 1 | lompoc
+2024-04-10 19:28:53,173 - ERROR - Request failed for lompoc: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=lompoc&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:53,174 - INFO - Processing Record 30 of Set 1 | linden
+2024-04-10 19:28:53,384 - ERROR - Request failed for linden: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=linden&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:53,384 - INFO - Processing Record 31 of Set 1 | port alfred
+2024-04-10 19:28:53,586 - ERROR - Request failed for port alfred: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=port+alfred&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:53,586 - INFO - Processing Record 32 of Set 1 | kapa'a
+2024-04-10 19:28:53,798 - ERROR - Request failed for kapa'a: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kapa%27a&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:53,798 - INFO - Processing Record 33 of Set 1 | quellon
+2024-04-10 19:28:54,203 - ERROR - Request failed for quellon: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=quellon&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:54,204 - INFO - Processing Record 34 of Set 1 | nova venecia
+2024-04-10 19:28:54,432 - ERROR - Request failed for nova venecia: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=nova+venecia&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:54,432 - INFO - Processing Record 35 of Set 1 | saldanha
+2024-04-10 19:28:54,663 - ERROR - Request failed for saldanha: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=saldanha&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:54,663 - INFO - Processing Record 36 of Set 1 | bikenibeu village
+2024-04-10 19:28:54,897 - ERROR - Request failed for bikenibeu village: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=bikenibeu+village&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:54,897 - INFO - Processing Record 37 of Set 1 | bethel
+2024-04-10 19:28:55,098 - ERROR - Request failed for bethel: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=bethel&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:55,098 - INFO - Processing Record 38 of Set 1 | whitehorse
+2024-04-10 19:28:55,313 - ERROR - Request failed for whitehorse: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=whitehorse&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:55,313 - INFO - Processing Record 39 of Set 1 | mbandaka
+2024-04-10 19:28:55,541 - ERROR - Request failed for mbandaka: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=mbandaka&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:55,541 - INFO - Processing Record 40 of Set 1 | kosciuszko national park
+2024-04-10 19:28:55,741 - ERROR - Request failed for kosciuszko national park: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kosciuszko+national+park&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:55,741 - INFO - Processing Record 41 of Set 1 | patong
+2024-04-10 19:28:55,925 - ERROR - Request failed for patong: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=patong&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:55,925 - INFO - Processing Record 42 of Set 1 | barah
+2024-04-10 19:28:56,154 - ERROR - Request failed for barah: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=barah&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:56,154 - INFO - Processing Record 43 of Set 1 | pisco
+2024-04-10 19:28:56,353 - ERROR - Request failed for pisco: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=pisco&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:56,353 - INFO - Processing Record 44 of Set 1 | ambon
+2024-04-10 19:28:56,560 - ERROR - Request failed for ambon: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ambon&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:56,560 - INFO - Processing Record 45 of Set 1 | wodonga
+2024-04-10 19:28:56,741 - ERROR - Request failed for wodonga: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=wodonga&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:56,741 - INFO - Processing Record 46 of Set 1 | kudahuvadhoo
+2024-04-10 19:28:56,931 - ERROR - Request failed for kudahuvadhoo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kudahuvadhoo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:56,931 - INFO - Processing Record 47 of Set 1 | kismayo
+2024-04-10 19:28:57,271 - ERROR - Request failed for kismayo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kismayo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:57,271 - INFO - Processing Record 48 of Set 1 | pali
+2024-04-10 19:28:57,515 - ERROR - Request failed for pali: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=pali&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:57,515 - INFO - Processing Record 49 of Set 1 | yangor
+2024-04-10 19:28:57,721 - ERROR - Request failed for yangor: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=yangor&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:57,721 - INFO - Processing Record 50 of Set 1 | nishinoomote
+2024-04-10 19:28:57,915 - ERROR - Request failed for nishinoomote: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=nishinoomote&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:57,915 - INFO - Processing Record 1 of Set 2 | brookings
+2024-04-10 19:28:58,131 - ERROR - Request failed for brookings: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=brookings&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:58,131 - INFO - Processing Record 2 of Set 2 | iqaluit
+2024-04-10 19:28:58,322 - ERROR - Request failed for iqaluit: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=iqaluit&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:58,323 - INFO - Processing Record 3 of Set 2 | urcos
+2024-04-10 19:28:58,617 - ERROR - Request failed for urcos: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=urcos&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:58,617 - INFO - Processing Record 4 of Set 2 | nagqu
+2024-04-10 19:28:58,841 - ERROR - Request failed for nagqu: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=nagqu&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:58,841 - INFO - Processing Record 5 of Set 2 | iskateley
+2024-04-10 19:28:59,051 - ERROR - Request failed for iskateley: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=iskateley&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:59,051 - INFO - Processing Record 6 of Set 2 | afaahiti
+2024-04-10 19:28:59,252 - ERROR - Request failed for afaahiti: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=afaahiti&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:59,252 - INFO - Processing Record 7 of Set 2 | bredasdorp
+2024-04-10 19:28:59,506 - ERROR - Request failed for bredasdorp: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=bredasdorp&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:59,507 - INFO - Processing Record 8 of Set 2 | bilibino
+2024-04-10 19:28:59,703 - ERROR - Request failed for bilibino: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=bilibino&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:59,703 - INFO - Processing Record 9 of Set 2 | thompson
+2024-04-10 19:28:59,894 - ERROR - Request failed for thompson: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=thompson&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:28:59,895 - INFO - Processing Record 10 of Set 2 | tiksi
+2024-04-10 19:29:00,118 - ERROR - Request failed for tiksi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=tiksi&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:00,119 - INFO - Processing Record 11 of Set 2 | edinburgh of the seven seas
+2024-04-10 19:29:00,320 - ERROR - Request failed for edinburgh of the seven seas: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=edinburgh+of+the+seven+seas&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:00,320 - INFO - Processing Record 12 of Set 2 | isafjordur
+2024-04-10 19:29:00,532 - ERROR - Request failed for isafjordur: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=isafjordur&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:00,532 - INFO - Processing Record 13 of Set 2 | aasiaat
+2024-04-10 19:29:00,963 - ERROR - Request failed for aasiaat: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=aasiaat&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:00,963 - INFO - Processing Record 14 of Set 2 | port mathurin
+2024-04-10 19:29:01,214 - ERROR - Request failed for port mathurin: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=port+mathurin&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:01,214 - INFO - Processing Record 15 of Set 2 | aykhal
+2024-04-10 19:29:01,463 - ERROR - Request failed for aykhal: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=aykhal&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:01,463 - INFO - Processing Record 16 of Set 2 | ushuaia
+2024-04-10 19:29:01,916 - ERROR - Request failed for ushuaia: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ushuaia&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:01,917 - INFO - Processing Record 17 of Set 2 | saudarkrokur
+2024-04-10 19:29:02,182 - ERROR - Request failed for saudarkrokur: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=saudarkrokur&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:02,182 - INFO - Processing Record 18 of Set 2 | businga
+2024-04-10 19:29:02,513 - ERROR - Request failed for businga: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=businga&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:02,513 - INFO - Processing Record 19 of Set 2 | ahau
+2024-04-10 19:29:02,988 - ERROR - Request failed for ahau: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ahau&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:02,988 - INFO - Processing Record 20 of Set 2 | taoudenni
+2024-04-10 19:29:03,247 - ERROR - Request failed for taoudenni: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=taoudenni&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:03,247 - INFO - Processing Record 21 of Set 2 | port lincoln
+2024-04-10 19:29:03,467 - ERROR - Request failed for port lincoln: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=port+lincoln&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:03,467 - INFO - Processing Record 22 of Set 2 | utrik
+2024-04-10 19:29:03,712 - ERROR - Request failed for utrik: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=utrik&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:03,712 - INFO - Processing Record 23 of Set 2 | la passe
+2024-04-10 19:29:03,945 - ERROR - Request failed for la passe: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=la+passe&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:03,945 - INFO - Processing Record 24 of Set 2 | frolovo
+2024-04-10 19:29:04,182 - ERROR - Request failed for frolovo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=frolovo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:04,182 - INFO - Processing Record 25 of Set 2 | nabire
+2024-04-10 19:29:04,540 - ERROR - Request failed for nabire: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=nabire&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:04,541 - INFO - Processing Record 26 of Set 2 | labrador city
+2024-04-10 19:29:04,836 - ERROR - Request failed for labrador city: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=labrador+city&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:04,837 - INFO - Processing Record 27 of Set 2 | sisimiut
+2024-04-10 19:29:05,073 - ERROR - Request failed for sisimiut: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sisimiut&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:05,073 - INFO - Processing Record 28 of Set 2 | vorgashor
+2024-04-10 19:29:05,332 - ERROR - Request failed for vorgashor: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=vorgashor&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:05,333 - INFO - Processing Record 29 of Set 2 | kingston
+2024-04-10 19:29:05,589 - ERROR - Request failed for kingston: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kingston&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:05,590 - INFO - Processing Record 30 of Set 2 | mount isa
+2024-04-10 19:29:06,137 - ERROR - Request failed for mount isa: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=mount+isa&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:06,137 - INFO - Processing Record 31 of Set 2 | seydi
+2024-04-10 19:29:06,434 - ERROR - Request failed for seydi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=seydi&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:06,435 - INFO - Processing Record 32 of Set 2 | dzidzantun
+2024-04-10 19:29:06,665 - ERROR - Request failed for dzidzantun: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=dzidzantun&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:06,665 - INFO - Processing Record 33 of Set 2 | ankazoabo
+2024-04-10 19:29:06,980 - ERROR - Request failed for ankazoabo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ankazoabo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:06,980 - INFO - Processing Record 34 of Set 2 | codrington
+2024-04-10 19:29:07,230 - ERROR - Request failed for codrington: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=codrington&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:07,230 - INFO - Processing Record 35 of Set 2 | shingu
+2024-04-10 19:29:07,728 - ERROR - Request failed for shingu: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=shingu&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:07,729 - INFO - Processing Record 36 of Set 2 | taiohae
+2024-04-10 19:29:08,037 - ERROR - Request failed for taiohae: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=taiohae&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:08,038 - INFO - Processing Record 37 of Set 2 | robore
+2024-04-10 19:29:08,321 - ERROR - Request failed for robore: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=robore&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:08,322 - INFO - Processing Record 38 of Set 2 | howrah
+2024-04-10 19:29:08,620 - ERROR - Request failed for howrah: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=howrah&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:08,621 - INFO - Processing Record 39 of Set 2 | tougan
+2024-04-10 19:29:08,958 - ERROR - Request failed for tougan: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=tougan&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:08,958 - INFO - Processing Record 40 of Set 2 | san pedro de macoris
+2024-04-10 19:29:09,211 - ERROR - Request failed for san pedro de macoris: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=san+pedro+de+macoris&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:09,211 - INFO - Processing Record 41 of Set 2 | oranjemund
+2024-04-10 19:29:09,441 - ERROR - Request failed for oranjemund: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=oranjemund&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:09,441 - INFO - Processing Record 42 of Set 2 | omaruru
+2024-04-10 19:29:09,717 - ERROR - Request failed for omaruru: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=omaruru&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:09,717 - INFO - Processing Record 43 of Set 2 | qaqortoq
+2024-04-10 19:29:09,944 - ERROR - Request failed for qaqortoq: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=qaqortoq&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:09,944 - INFO - Processing Record 44 of Set 2 | college
+2024-04-10 19:29:10,302 - ERROR - Request failed for college: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=college&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:10,302 - INFO - Processing Record 45 of Set 2 | ola
+2024-04-10 19:29:10,547 - ERROR - Request failed for ola: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ola&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:10,547 - INFO - Processing Record 46 of Set 2 | atafu village
+2024-04-10 19:29:10,767 - ERROR - Request failed for atafu village: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=atafu+village&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:10,767 - INFO - Processing Record 47 of Set 2 | kharp
+2024-04-10 19:29:10,998 - ERROR - Request failed for kharp: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kharp&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:10,998 - INFO - Processing Record 48 of Set 2 | tranovaho
+2024-04-10 19:29:11,235 - ERROR - Request failed for tranovaho: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=tranovaho&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:11,235 - INFO - Processing Record 49 of Set 2 | papatowai
+2024-04-10 19:29:11,490 - ERROR - Request failed for papatowai: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=papatowai&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:11,490 - INFO - Processing Record 50 of Set 2 | posse
+2024-04-10 19:29:11,708 - ERROR - Request failed for posse: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=posse&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:11,708 - INFO - Processing Record 1 of Set 3 | zemio
+2024-04-10 19:29:11,929 - ERROR - Request failed for zemio: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=zemio&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:11,929 - INFO - Processing Record 2 of Set 3 | labytnangi
+2024-04-10 19:29:12,137 - ERROR - Request failed for labytnangi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=labytnangi&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:12,138 - INFO - Processing Record 3 of Set 3 | okhotsk
+2024-04-10 19:29:12,340 - ERROR - Request failed for okhotsk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=okhotsk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:12,341 - INFO - Processing Record 4 of Set 3 | tamanrasset
+2024-04-10 19:29:12,661 - ERROR - Request failed for tamanrasset: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=tamanrasset&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:12,661 - INFO - Processing Record 5 of Set 3 | kerema
+2024-04-10 19:29:12,884 - ERROR - Request failed for kerema: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kerema&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:12,884 - INFO - Processing Record 6 of Set 3 | sinabang
+2024-04-10 19:29:13,112 - ERROR - Request failed for sinabang: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sinabang&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:13,112 - INFO - Processing Record 7 of Set 3 | west island
+2024-04-10 19:29:13,343 - ERROR - Request failed for west island: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=west+island&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:13,344 - INFO - Processing Record 8 of Set 3 | cannonvale
+2024-04-10 19:29:13,556 - ERROR - Request failed for cannonvale: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=cannonvale&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:13,556 - INFO - Processing Record 9 of Set 3 | cairns city
+2024-04-10 19:29:13,840 - ERROR - Request failed for cairns city: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=cairns+city&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:13,841 - INFO - Processing Record 10 of Set 3 | queenstown
+2024-04-10 19:29:14,054 - ERROR - Request failed for queenstown: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=queenstown&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:14,054 - INFO - Processing Record 11 of Set 3 | anadyr
+2024-04-10 19:29:14,253 - ERROR - Request failed for anadyr: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=anadyr&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:14,253 - INFO - Processing Record 12 of Set 3 | mana
+2024-04-10 19:29:15,265 - ERROR - Request failed for mana: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=mana&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:15,265 - INFO - Processing Record 13 of Set 3 | taroa
+2024-04-10 19:29:15,488 - ERROR - Request failed for taroa: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=taroa&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:15,488 - INFO - Processing Record 14 of Set 3 | fale old settlement
+2024-04-10 19:29:15,712 - ERROR - Request failed for fale old settlement: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=fale+old+settlement&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:15,712 - INFO - Processing Record 15 of Set 3 | enewetak
+2024-04-10 19:29:16,006 - ERROR - Request failed for enewetak: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=enewetak&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:16,007 - INFO - Processing Record 16 of Set 3 | opochka
+2024-04-10 19:29:16,230 - ERROR - Request failed for opochka: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=opochka&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:16,230 - INFO - Processing Record 17 of Set 3 | wailua homesteads
+2024-04-10 19:29:16,457 - ERROR - Request failed for wailua homesteads: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=wailua+homesteads&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:16,457 - INFO - Processing Record 18 of Set 3 | barcelos
+2024-04-10 19:29:16,793 - ERROR - Request failed for barcelos: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=barcelos&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:16,793 - INFO - Processing Record 19 of Set 3 | shevchenko
+2024-04-10 19:29:17,013 - ERROR - Request failed for shevchenko: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=shevchenko&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:17,013 - INFO - Processing Record 20 of Set 3 | imperia
+2024-04-10 19:29:17,220 - ERROR - Request failed for imperia: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=imperia&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:17,220 - INFO - Processing Record 21 of Set 3 | zouerate
+2024-04-10 19:29:17,436 - ERROR - Request failed for zouerate: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=zouerate&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:17,436 - INFO - Processing Record 22 of Set 3 | port elizabeth
+2024-04-10 19:29:17,647 - ERROR - Request failed for port elizabeth: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=port+elizabeth&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:17,647 - INFO - Processing Record 23 of Set 3 | goundi
+2024-04-10 19:29:18,095 - ERROR - Request failed for goundi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=goundi&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:18,095 - INFO - Processing Record 24 of Set 3 | portland
+2024-04-10 19:29:18,388 - ERROR - Request failed for portland: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=portland&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:18,389 - INFO - Processing Record 25 of Set 3 | priargunsk
+2024-04-10 19:29:18,604 - ERROR - Request failed for priargunsk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=priargunsk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:18,605 - INFO - Processing Record 26 of Set 3 | khandyga
+2024-04-10 19:29:18,826 - ERROR - Request failed for khandyga: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=khandyga&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:18,826 - INFO - Processing Record 27 of Set 3 | vanimo
+2024-04-10 19:29:19,043 - ERROR - Request failed for vanimo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=vanimo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:19,043 - INFO - Processing Record 28 of Set 3 | quang ngai
+2024-04-10 19:29:19,260 - ERROR - Request failed for quang ngai: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=quang+ngai&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:19,260 - INFO - Processing Record 29 of Set 3 | longyearbyen
+2024-04-10 19:29:19,530 - ERROR - Request failed for longyearbyen: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=longyearbyen&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:19,530 - INFO - Processing Record 30 of Set 3 | tarrafal de sao nicolau
+2024-04-10 19:29:19,761 - ERROR - Request failed for tarrafal de sao nicolau: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=tarrafal+de+sao+nicolau&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:19,761 - INFO - Processing Record 31 of Set 3 | yuzhno-kurilsk
+2024-04-10 19:29:19,969 - ERROR - Request failed for yuzhno-kurilsk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=yuzhno-kurilsk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:19,969 - INFO - Processing Record 32 of Set 3 | yorktown
+2024-04-10 19:29:20,168 - ERROR - Request failed for yorktown: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=yorktown&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:20,169 - INFO - Processing Record 33 of Set 3 | moose jaw
+2024-04-10 19:29:20,366 - ERROR - Request failed for moose jaw: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=moose+jaw&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:20,366 - INFO - Processing Record 34 of Set 3 | fonadhoo
+2024-04-10 19:29:20,572 - ERROR - Request failed for fonadhoo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=fonadhoo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:20,573 - INFO - Processing Record 35 of Set 3 | talnakh
+2024-04-10 19:29:20,922 - ERROR - Request failed for talnakh: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=talnakh&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:20,923 - INFO - Processing Record 36 of Set 3 | jamestown
+2024-04-10 19:29:21,193 - ERROR - Request failed for jamestown: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=jamestown&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:21,193 - INFO - Processing Record 37 of Set 3 | frontera
+2024-04-10 19:29:21,413 - ERROR - Request failed for frontera: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=frontera&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:21,413 - INFO - Processing Record 38 of Set 3 | nikolayevsk-on-amure
+2024-04-10 19:29:21,712 - ERROR - Request failed for nikolayevsk-on-amure: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=nikolayevsk-on-amure&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:21,712 - INFO - Processing Record 39 of Set 3 | ancud
+2024-04-10 19:29:21,919 - ERROR - Request failed for ancud: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ancud&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:21,919 - INFO - Processing Record 40 of Set 3 | sitka
+2024-04-10 19:29:22,134 - ERROR - Request failed for sitka: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sitka&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:22,134 - INFO - Processing Record 41 of Set 3 | olonkinbyen
+2024-04-10 19:29:22,348 - ERROR - Request failed for olonkinbyen: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=olonkinbyen&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:22,348 - INFO - Processing Record 42 of Set 3 | gorontalo
+2024-04-10 19:29:22,686 - ERROR - Request failed for gorontalo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=gorontalo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:22,687 - INFO - Processing Record 43 of Set 3 | bodaybo
+2024-04-10 19:29:22,958 - ERROR - Request failed for bodaybo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=bodaybo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:22,958 - INFO - Processing Record 44 of Set 3 | kachug
+2024-04-10 19:29:23,209 - ERROR - Request failed for kachug: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kachug&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:23,209 - INFO - Processing Record 45 of Set 3 | olhao
+2024-04-10 19:29:23,627 - ERROR - Request failed for olhao: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=olhao&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:23,627 - INFO - Processing Record 46 of Set 3 | tianpeng
+2024-04-10 19:29:23,908 - ERROR - Request failed for tianpeng: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=tianpeng&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:23,908 - INFO - Processing Record 47 of Set 3 | smithers
+2024-04-10 19:29:24,151 - ERROR - Request failed for smithers: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=smithers&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:24,151 - INFO - Processing Record 48 of Set 3 | hermanus
+2024-04-10 19:29:24,367 - ERROR - Request failed for hermanus: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=hermanus&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:24,367 - INFO - Processing Record 49 of Set 3 | invercargill
+2024-04-10 19:29:24,692 - ERROR - Request failed for invercargill: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=invercargill&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:24,693 - INFO - Processing Record 50 of Set 3 | hakodate
+2024-04-10 19:29:24,992 - ERROR - Request failed for hakodate: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=hakodate&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:24,992 - INFO - Processing Record 1 of Set 4 | meadow lake
+2024-04-10 19:29:25,209 - ERROR - Request failed for meadow lake: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=meadow+lake&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:25,209 - INFO - Processing Record 2 of Set 4 | banda aceh
+2024-04-10 19:29:25,427 - ERROR - Request failed for banda aceh: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=banda+aceh&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:25,427 - INFO - Processing Record 3 of Set 4 | slave lake
+2024-04-10 19:29:25,636 - ERROR - Request failed for slave lake: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=slave+lake&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:25,636 - INFO - Processing Record 4 of Set 4 | fortaleza
+2024-04-10 19:29:25,847 - ERROR - Request failed for fortaleza: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=fortaleza&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:25,848 - INFO - Processing Record 5 of Set 4 | kourou
+2024-04-10 19:29:26,075 - ERROR - Request failed for kourou: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kourou&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:26,075 - INFO - Processing Record 6 of Set 4 | northam
+2024-04-10 19:29:26,318 - ERROR - Request failed for northam: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=northam&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:26,318 - INFO - Processing Record 7 of Set 4 | tazovsky
+2024-04-10 19:29:26,667 - ERROR - Request failed for tazovsky: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=tazovsky&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:26,668 - INFO - Processing Record 8 of Set 4 | sao tome
+2024-04-10 19:29:26,924 - ERROR - Request failed for sao tome: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sao+tome&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:26,924 - INFO - Processing Record 9 of Set 4 | san antonio de pale
+2024-04-10 19:29:27,180 - ERROR - Request failed for san antonio de pale: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=san+antonio+de+pale&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:27,180 - INFO - Processing Record 10 of Set 4 | klyuchi
+2024-04-10 19:29:27,401 - ERROR - Request failed for klyuchi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=klyuchi&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:27,401 - INFO - Processing Record 11 of Set 4 | lata
+2024-04-10 19:29:27,740 - ERROR - Request failed for lata: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=lata&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:27,740 - INFO - Processing Record 12 of Set 4 | akureyri
+2024-04-10 19:29:28,024 - ERROR - Request failed for akureyri: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=akureyri&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:28,025 - INFO - Processing Record 13 of Set 4 | north platte
+2024-04-10 19:29:28,299 - ERROR - Request failed for north platte: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=north+platte&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:28,299 - INFO - Processing Record 14 of Set 4 | lohja
+2024-04-10 19:29:28,542 - ERROR - Request failed for lohja: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=lohja&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:28,542 - INFO - Processing Record 15 of Set 4 | koungou
+2024-04-10 19:29:28,753 - ERROR - Request failed for koungou: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=koungou&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:28,753 - INFO - Processing Record 16 of Set 4 | glennville
+2024-04-10 19:29:28,968 - ERROR - Request failed for glennville: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=glennville&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:28,968 - INFO - Processing Record 17 of Set 4 | mirny
+2024-04-10 19:29:29,250 - ERROR - Request failed for mirny: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=mirny&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:29,250 - INFO - Processing Record 18 of Set 4 | bushehr
+2024-04-10 19:29:29,472 - ERROR - Request failed for bushehr: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=bushehr&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:29,472 - INFO - Processing Record 19 of Set 4 | avarua
+2024-04-10 19:29:29,700 - ERROR - Request failed for avarua: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=avarua&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:29,700 - INFO - Processing Record 20 of Set 4 | middletown
+2024-04-10 19:29:29,941 - ERROR - Request failed for middletown: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=middletown&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:29,941 - INFO - Processing Record 21 of Set 4 | glace bay
+2024-04-10 19:29:30,143 - ERROR - Request failed for glace bay: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=glace+bay&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:30,143 - INFO - Processing Record 22 of Set 4 | kogalym
+2024-04-10 19:29:30,535 - ERROR - Request failed for kogalym: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kogalym&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:30,536 - INFO - Processing Record 23 of Set 4 | ostersund
+2024-04-10 19:29:30,763 - ERROR - Request failed for ostersund: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ostersund&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:30,763 - INFO - Processing Record 24 of Set 4 | columbia falls
+2024-04-10 19:29:30,989 - ERROR - Request failed for columbia falls: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=columbia+falls&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:30,989 - INFO - Processing Record 25 of Set 4 | verkhnevilyuysk
+2024-04-10 19:29:31,237 - ERROR - Request failed for verkhnevilyuysk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=verkhnevilyuysk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:31,237 - INFO - Processing Record 26 of Set 4 | hasaki
+2024-04-10 19:29:31,584 - ERROR - Request failed for hasaki: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=hasaki&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:31,585 - INFO - Processing Record 27 of Set 4 | ilulissat
+2024-04-10 19:29:31,800 - ERROR - Request failed for ilulissat: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ilulissat&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:31,801 - INFO - Processing Record 28 of Set 4 | karayazi
+2024-04-10 19:29:32,022 - ERROR - Request failed for karayazi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=karayazi&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:32,023 - INFO - Processing Record 29 of Set 4 | carnarvon
+2024-04-10 19:29:32,378 - ERROR - Request failed for carnarvon: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=carnarvon&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:32,378 - INFO - Processing Record 30 of Set 4 | udachny
+2024-04-10 19:29:32,598 - ERROR - Request failed for udachny: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=udachny&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:32,598 - INFO - Processing Record 31 of Set 4 | itaituba
+2024-04-10 19:29:32,829 - ERROR - Request failed for itaituba: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=itaituba&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:32,829 - INFO - Processing Record 32 of Set 4 | makueni boma
+2024-04-10 19:29:33,044 - ERROR - Request failed for makueni boma: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=makueni+boma&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:33,045 - INFO - Processing Record 33 of Set 4 | vadso
+2024-04-10 19:29:33,260 - ERROR - Request failed for vadso: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=vadso&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:33,261 - INFO - Processing Record 34 of Set 4 | kurumkan
+2024-04-10 19:29:33,586 - ERROR - Request failed for kurumkan: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kurumkan&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:33,586 - INFO - Processing Record 35 of Set 4 | steamboat springs
+2024-04-10 19:29:33,840 - ERROR - Request failed for steamboat springs: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=steamboat+springs&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:33,840 - INFO - Processing Record 36 of Set 4 | selfoss
+2024-04-10 19:29:34,070 - ERROR - Request failed for selfoss: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=selfoss&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:34,071 - INFO - Processing Record 37 of Set 4 | namsos
+2024-04-10 19:29:34,349 - ERROR - Request failed for namsos: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=namsos&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:34,350 - INFO - Processing Record 38 of Set 4 | orbetello
+2024-04-10 19:29:34,612 - ERROR - Request failed for orbetello: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=orbetello&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:34,612 - INFO - Processing Record 39 of Set 4 | lorengau
+2024-04-10 19:29:34,847 - ERROR - Request failed for lorengau: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=lorengau&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:34,847 - INFO - Processing Record 40 of Set 4 | puerto aysen
+2024-04-10 19:29:35,112 - ERROR - Request failed for puerto aysen: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=puerto+aysen&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:35,112 - INFO - Processing Record 41 of Set 4 | cole harbour
+2024-04-10 19:29:35,323 - ERROR - Request failed for cole harbour: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=cole+harbour&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:35,323 - INFO - Processing Record 42 of Set 4 | esquel
+2024-04-10 19:29:35,548 - ERROR - Request failed for esquel: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=esquel&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:35,548 - INFO - Processing Record 43 of Set 4 | phek
+2024-04-10 19:29:35,781 - ERROR - Request failed for phek: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=phek&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:35,781 - INFO - Processing Record 44 of Set 4 | rio grande
+2024-04-10 19:29:36,049 - ERROR - Request failed for rio grande: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=rio+grande&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:36,049 - INFO - Processing Record 45 of Set 4 | uturoa
+2024-04-10 19:29:36,258 - ERROR - Request failed for uturoa: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=uturoa&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:36,258 - INFO - Processing Record 46 of Set 4 | johnstown
+2024-04-10 19:29:36,488 - ERROR - Request failed for johnstown: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=johnstown&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:36,488 - INFO - Processing Record 47 of Set 4 | bintulu
+2024-04-10 19:29:36,747 - ERROR - Request failed for bintulu: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=bintulu&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:36,747 - INFO - Processing Record 48 of Set 4 | envira
+2024-04-10 19:29:36,992 - ERROR - Request failed for envira: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=envira&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:36,992 - INFO - Processing Record 49 of Set 4 | bismarck
+2024-04-10 19:29:37,422 - ERROR - Request failed for bismarck: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=bismarck&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:37,422 - INFO - Processing Record 50 of Set 4 | north battleford
+2024-04-10 19:29:37,659 - ERROR - Request failed for north battleford: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=north+battleford&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:37,659 - INFO - Processing Record 1 of Set 5 | hawaiian paradise park
+2024-04-10 19:29:37,927 - ERROR - Request failed for hawaiian paradise park: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=hawaiian+paradise+park&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:37,927 - INFO - Processing Record 2 of Set 5 | hamilton
+2024-04-10 19:29:38,188 - ERROR - Request failed for hamilton: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=hamilton&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:38,188 - INFO - Processing Record 3 of Set 5 | 'ohonua
+2024-04-10 19:29:38,421 - ERROR - Request failed for 'ohonua: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=%27ohonua&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:38,421 - INFO - Processing Record 4 of Set 5 | saynshand
+2024-04-10 19:29:38,643 - ERROR - Request failed for saynshand: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=saynshand&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:38,643 - INFO - Processing Record 5 of Set 5 | samarinda
+2024-04-10 19:29:38,861 - ERROR - Request failed for samarinda: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=samarinda&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:38,861 - INFO - Processing Record 6 of Set 5 | happy valley-goose bay
+2024-04-10 19:29:39,140 - ERROR - Request failed for happy valley-goose bay: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=happy+valley-goose+bay&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:39,140 - INFO - Processing Record 7 of Set 5 | sroda wielkopolska
+2024-04-10 19:29:39,342 - ERROR - Request failed for sroda wielkopolska: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sroda+wielkopolska&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:39,342 - INFO - Processing Record 8 of Set 5 | borgarnes
+2024-04-10 19:29:39,555 - ERROR - Request failed for borgarnes: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=borgarnes&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:39,555 - INFO - Processing Record 9 of Set 5 | asamankese
+2024-04-10 19:29:39,745 - ERROR - Request failed for asamankese: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=asamankese&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:39,745 - INFO - Processing Record 10 of Set 5 | changyon
+2024-04-10 19:29:39,941 - ERROR - Request failed for changyon: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=changyon&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:39,941 - INFO - Processing Record 11 of Set 5 | sonsorol village
+2024-04-10 19:29:40,119 - ERROR - Request failed for sonsorol village: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sonsorol+village&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:40,119 - INFO - Processing Record 12 of Set 5 | lincoln city
+2024-04-10 19:29:40,341 - ERROR - Request failed for lincoln city: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=lincoln+city&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:40,341 - INFO - Processing Record 13 of Set 5 | kirensk
+2024-04-10 19:29:40,606 - ERROR - Request failed for kirensk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kirensk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:40,607 - INFO - Processing Record 14 of Set 5 | remire-montjoly
+2024-04-10 19:29:40,839 - ERROR - Request failed for remire-montjoly: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=remire-montjoly&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:40,840 - INFO - Processing Record 15 of Set 5 | fort st. john
+2024-04-10 19:29:41,075 - ERROR - Request failed for fort st. john: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=fort+st.+john&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:41,075 - INFO - Processing Record 16 of Set 5 | lebu
+2024-04-10 19:29:41,274 - ERROR - Request failed for lebu: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=lebu&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:41,274 - INFO - Processing Record 17 of Set 5 | maloye ganyushkino
+2024-04-10 19:29:41,532 - ERROR - Request failed for maloye ganyushkino: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=maloye+ganyushkino&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:41,532 - INFO - Processing Record 18 of Set 5 | kuala belait
+2024-04-10 19:29:41,735 - ERROR - Request failed for kuala belait: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kuala+belait&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:41,736 - INFO - Processing Record 19 of Set 5 | angaur state
+2024-04-10 19:29:42,041 - ERROR - Request failed for angaur state: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=angaur+state&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:42,041 - INFO - Processing Record 20 of Set 5 | gueltat zemmour
+2024-04-10 19:29:42,262 - ERROR - Request failed for gueltat zemmour: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=gueltat+zemmour&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:42,262 - INFO - Processing Record 21 of Set 5 | vila velha
+2024-04-10 19:29:42,503 - ERROR - Request failed for vila velha: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=vila+velha&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:42,503 - INFO - Processing Record 22 of Set 5 | yagry
+2024-04-10 19:29:42,727 - ERROR - Request failed for yagry: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=yagry&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:42,727 - INFO - Processing Record 23 of Set 5 | severo-yeniseyskiy
+2024-04-10 19:29:42,983 - ERROR - Request failed for severo-yeniseyskiy: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=severo-yeniseyskiy&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:42,983 - INFO - Processing Record 24 of Set 5 | east london
+2024-04-10 19:29:43,174 - ERROR - Request failed for east london: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=east+london&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:43,175 - INFO - Processing Record 25 of Set 5 | necochea
+2024-04-10 19:29:43,377 - ERROR - Request failed for necochea: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=necochea&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:43,377 - INFO - Processing Record 26 of Set 5 | yen bai
+2024-04-10 19:29:43,588 - ERROR - Request failed for yen bai: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=yen+bai&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:43,588 - INFO - Processing Record 27 of Set 5 | new norfolk
+2024-04-10 19:29:43,926 - ERROR - Request failed for new norfolk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=new+norfolk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:43,926 - INFO - Processing Record 28 of Set 5 | kalemie
+2024-04-10 19:29:44,143 - ERROR - Request failed for kalemie: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kalemie&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:44,143 - INFO - Processing Record 29 of Set 5 | ust-nera
+2024-04-10 19:29:44,411 - ERROR - Request failed for ust-nera: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ust-nera&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:44,412 - INFO - Processing Record 30 of Set 5 | ataq
+2024-04-10 19:29:44,643 - ERROR - Request failed for ataq: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ataq&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:44,643 - INFO - Processing Record 31 of Set 5 | vilyuchinsk
+2024-04-10 19:29:44,846 - ERROR - Request failed for vilyuchinsk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=vilyuchinsk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:44,846 - INFO - Processing Record 32 of Set 5 | mount gambier
+2024-04-10 19:29:45,104 - ERROR - Request failed for mount gambier: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=mount+gambier&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:45,104 - INFO - Processing Record 33 of Set 5 | novodvinsk
+2024-04-10 19:29:45,411 - ERROR - Request failed for novodvinsk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=novodvinsk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:45,411 - INFO - Processing Record 34 of Set 5 | midvagur
+2024-04-10 19:29:45,606 - ERROR - Request failed for midvagur: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=midvagur&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:45,606 - INFO - Processing Record 35 of Set 5 | praia da vitoria
+2024-04-10 19:29:45,953 - ERROR - Request failed for praia da vitoria: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=praia+da+vitoria&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:45,953 - INFO - Processing Record 36 of Set 5 | misratah
+2024-04-10 19:29:46,171 - ERROR - Request failed for misratah: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=misratah&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:46,171 - INFO - Processing Record 37 of Set 5 | adrar
+2024-04-10 19:29:46,363 - ERROR - Request failed for adrar: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=adrar&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:46,363 - INFO - Processing Record 38 of Set 5 | lihue
+2024-04-10 19:29:46,584 - ERROR - Request failed for lihue: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=lihue&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:46,584 - INFO - Processing Record 39 of Set 5 | usinsk
+2024-04-10 19:29:46,874 - ERROR - Request failed for usinsk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=usinsk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:46,874 - INFO - Processing Record 40 of Set 5 | fort bragg
+2024-04-10 19:29:47,390 - ERROR - Request failed for fort bragg: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=fort+bragg&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:47,390 - INFO - Processing Record 41 of Set 5 | nar'yan-mar
+2024-04-10 19:29:47,624 - ERROR - Request failed for nar'yan-mar: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=nar%27yan-mar&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:47,624 - INFO - Processing Record 42 of Set 5 | tchintabaraden
+2024-04-10 19:29:47,897 - ERROR - Request failed for tchintabaraden: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=tchintabaraden&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:47,897 - INFO - Processing Record 43 of Set 5 | aktau
+2024-04-10 19:29:48,135 - ERROR - Request failed for aktau: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=aktau&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:48,135 - INFO - Processing Record 44 of Set 5 | vilyuysk
+2024-04-10 19:29:48,466 - ERROR - Request failed for vilyuysk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=vilyuysk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:48,467 - INFO - Processing Record 45 of Set 5 | colonia
+2024-04-10 19:29:48,669 - ERROR - Request failed for colonia: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=colonia&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:48,669 - INFO - Processing Record 46 of Set 5 | we
+2024-04-10 19:29:48,895 - ERROR - Request failed for we: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=we&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:48,895 - INFO - Processing Record 47 of Set 5 | modra
+2024-04-10 19:29:49,123 - ERROR - Request failed for modra: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=modra&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:49,123 - INFO - Processing Record 48 of Set 5 | seosan
+2024-04-10 19:29:49,490 - ERROR - Request failed for seosan: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=seosan&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:49,490 - INFO - Processing Record 49 of Set 5 | funafuti
+2024-04-10 19:29:49,705 - ERROR - Request failed for funafuti: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=funafuti&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:49,705 - INFO - Processing Record 50 of Set 5 | torres
+2024-04-10 19:29:49,930 - ERROR - Request failed for torres: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=torres&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:49,930 - INFO - Processing Record 1 of Set 6 | nova sintra
+2024-04-10 19:29:50,126 - ERROR - Request failed for nova sintra: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=nova+sintra&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:50,127 - INFO - Processing Record 2 of Set 6 | lensk
+2024-04-10 19:29:50,329 - ERROR - Request failed for lensk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=lensk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:50,329 - INFO - Processing Record 3 of Set 6 | dudinka
+2024-04-10 19:29:50,671 - ERROR - Request failed for dudinka: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=dudinka&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:50,672 - INFO - Processing Record 4 of Set 6 | ta`u
+2024-04-10 19:29:50,894 - ERROR - Request failed for ta`u: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ta%60u&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:50,894 - INFO - Processing Record 5 of Set 6 | geraldton
+2024-04-10 19:29:51,131 - ERROR - Request failed for geraldton: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=geraldton&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:51,131 - INFO - Processing Record 6 of Set 6 | toga village
+2024-04-10 19:29:51,347 - ERROR - Request failed for toga village: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=toga+village&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:51,347 - INFO - Processing Record 7 of Set 6 | hanting
+2024-04-10 19:29:51,614 - ERROR - Request failed for hanting: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=hanting&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:51,614 - INFO - Processing Record 8 of Set 6 | huarmey
+2024-04-10 19:29:51,811 - ERROR - Request failed for huarmey: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=huarmey&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:51,811 - INFO - Processing Record 9 of Set 6 | kayunga
+2024-04-10 19:29:52,046 - ERROR - Request failed for kayunga: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kayunga&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:52,047 - INFO - Processing Record 10 of Set 6 | kristiansund
+2024-04-10 19:29:52,423 - ERROR - Request failed for kristiansund: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kristiansund&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:52,424 - INFO - Processing Record 11 of Set 6 | bantogon
+2024-04-10 19:29:52,636 - ERROR - Request failed for bantogon: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=bantogon&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:52,636 - INFO - Processing Record 12 of Set 6 | katsuren-haebaru
+2024-04-10 19:29:52,863 - ERROR - Request failed for katsuren-haebaru: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=katsuren-haebaru&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:52,863 - INFO - Processing Record 13 of Set 6 | mahibadhoo
+2024-04-10 19:29:53,098 - ERROR - Request failed for mahibadhoo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=mahibadhoo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:53,098 - INFO - Processing Record 14 of Set 6 | kiunga
+2024-04-10 19:29:53,314 - ERROR - Request failed for kiunga: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kiunga&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:53,314 - INFO - Processing Record 15 of Set 6 | san patricio
+2024-04-10 19:29:53,631 - ERROR - Request failed for san patricio: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=san+patricio&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:53,631 - INFO - Processing Record 16 of Set 6 | cockburn town
+2024-04-10 19:29:53,926 - ERROR - Request failed for cockburn town: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=cockburn+town&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:53,927 - INFO - Processing Record 17 of Set 6 | berdigestyakh
+2024-04-10 19:29:54,177 - ERROR - Request failed for berdigestyakh: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=berdigestyakh&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:54,177 - INFO - Processing Record 18 of Set 6 | kailua-kona
+2024-04-10 19:29:54,408 - ERROR - Request failed for kailua-kona: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kailua-kona&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:54,409 - INFO - Processing Record 19 of Set 6 | turinsk
+2024-04-10 19:29:54,625 - ERROR - Request failed for turinsk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=turinsk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:54,625 - INFO - Processing Record 20 of Set 6 | torghay
+2024-04-10 19:29:54,844 - ERROR - Request failed for torghay: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=torghay&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:54,844 - INFO - Processing Record 21 of Set 6 | usol'ye
+2024-04-10 19:29:55,073 - ERROR - Request failed for usol'ye: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=usol%27ye&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:55,073 - INFO - Processing Record 22 of Set 6 | georgetown
+2024-04-10 19:29:55,282 - ERROR - Request failed for georgetown: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=georgetown&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:55,282 - INFO - Processing Record 23 of Set 6 | qamdo
+2024-04-10 19:29:55,507 - ERROR - Request failed for qamdo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=qamdo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:55,507 - INFO - Processing Record 24 of Set 6 | sulak
+2024-04-10 19:29:55,717 - ERROR - Request failed for sulak: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sulak&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:55,718 - INFO - Processing Record 25 of Set 6 | palmer
+2024-04-10 19:29:55,909 - ERROR - Request failed for palmer: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=palmer&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:55,909 - INFO - Processing Record 26 of Set 6 | kerikeri
+2024-04-10 19:29:56,088 - ERROR - Request failed for kerikeri: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kerikeri&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:56,088 - INFO - Processing Record 27 of Set 6 | chanal
+2024-04-10 19:29:56,295 - ERROR - Request failed for chanal: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=chanal&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:56,295 - INFO - Processing Record 28 of Set 6 | fernie
+2024-04-10 19:29:56,516 - ERROR - Request failed for fernie: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=fernie&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:56,516 - INFO - Processing Record 29 of Set 6 | dalaba
+2024-04-10 19:29:56,767 - ERROR - Request failed for dalaba: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=dalaba&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:56,767 - INFO - Processing Record 30 of Set 6 | nemuro
+2024-04-10 19:29:57,001 - ERROR - Request failed for nemuro: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=nemuro&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:57,001 - INFO - Processing Record 31 of Set 6 | ugoofaaru
+2024-04-10 19:29:57,208 - ERROR - Request failed for ugoofaaru: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ugoofaaru&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:57,208 - INFO - Processing Record 32 of Set 6 | gubkinskiy
+2024-04-10 19:29:57,496 - ERROR - Request failed for gubkinskiy: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=gubkinskiy&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:57,496 - INFO - Processing Record 33 of Set 6 | thurgoona
+2024-04-10 19:29:57,680 - ERROR - Request failed for thurgoona: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=thurgoona&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:57,680 - INFO - Processing Record 34 of Set 6 | konin
+2024-04-10 19:29:57,910 - ERROR - Request failed for konin: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=konin&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:57,910 - INFO - Processing Record 35 of Set 6 | vingt cinq
+2024-04-10 19:29:58,141 - ERROR - Request failed for vingt cinq: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=vingt+cinq&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:58,141 - INFO - Processing Record 36 of Set 6 | constantia
+2024-04-10 19:29:58,338 - ERROR - Request failed for constantia: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=constantia&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:58,338 - INFO - Processing Record 37 of Set 6 | sieradz
+2024-04-10 19:29:58,664 - ERROR - Request failed for sieradz: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sieradz&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:58,664 - INFO - Processing Record 38 of Set 6 | merritt
+2024-04-10 19:29:58,882 - ERROR - Request failed for merritt: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=merritt&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:58,882 - INFO - Processing Record 39 of Set 6 | george town
+2024-04-10 19:29:59,086 - ERROR - Request failed for george town: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=george+town&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:59,086 - INFO - Processing Record 40 of Set 6 | hadibu
+2024-04-10 19:29:59,354 - ERROR - Request failed for hadibu: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=hadibu&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:59,355 - INFO - Processing Record 41 of Set 6 | stettler
+2024-04-10 19:29:59,543 - ERROR - Request failed for stettler: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=stettler&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:59,543 - INFO - Processing Record 42 of Set 6 | globe
+2024-04-10 19:29:59,738 - ERROR - Request failed for globe: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=globe&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:59,738 - INFO - Processing Record 43 of Set 6 | petropavlovsk-kamchatsky
+2024-04-10 19:29:59,940 - ERROR - Request failed for petropavlovsk-kamchatsky: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=petropavlovsk-kamchatsky&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:29:59,940 - INFO - Processing Record 44 of Set 6 | inhambane
+2024-04-10 19:30:00,227 - ERROR - Request failed for inhambane: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=inhambane&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:00,227 - INFO - Processing Record 45 of Set 6 | dorogobuzh
+2024-04-10 19:30:00,686 - ERROR - Request failed for dorogobuzh: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=dorogobuzh&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:00,687 - INFO - Processing Record 46 of Set 6 | sodra sandby
+2024-04-10 19:30:00,970 - ERROR - Request failed for sodra sandby: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sodra+sandby&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:00,970 - INFO - Processing Record 47 of Set 6 | fremont
+2024-04-10 19:30:01,456 - ERROR - Request failed for fremont: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=fremont&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:01,456 - INFO - Processing Record 48 of Set 6 | tobelo
+2024-04-10 19:30:02,141 - ERROR - Request failed for tobelo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=tobelo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:02,141 - INFO - Processing Record 49 of Set 6 | kunduz
+2024-04-10 19:30:03,903 - ERROR - Request failed for kunduz: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kunduz&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:03,903 - INFO - Processing Record 50 of Set 6 | amos
+2024-04-10 19:30:07,180 - ERROR - Request failed for amos: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=amos&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:07,180 - INFO - Processing Record 1 of Set 7 | holualoa
+2024-04-10 19:30:07,385 - ERROR - Request failed for holualoa: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=holualoa&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:07,385 - INFO - Processing Record 2 of Set 7 | ban pong
+2024-04-10 19:30:07,618 - ERROR - Request failed for ban pong: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ban+pong&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:07,618 - INFO - Processing Record 3 of Set 7 | fonte boa
+2024-04-10 19:30:07,844 - ERROR - Request failed for fonte boa: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=fonte+boa&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:07,844 - INFO - Processing Record 4 of Set 7 | ketchikan
+2024-04-10 19:30:08,041 - ERROR - Request failed for ketchikan: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ketchikan&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:08,041 - INFO - Processing Record 5 of Set 7 | kota belud
+2024-04-10 19:30:08,351 - ERROR - Request failed for kota belud: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kota+belud&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:08,351 - INFO - Processing Record 6 of Set 7 | tolanaro
+2024-04-10 19:30:08,546 - ERROR - Request failed for tolanaro: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=tolanaro&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:08,546 - INFO - Processing Record 7 of Set 7 | howard springs
+2024-04-10 19:30:08,743 - ERROR - Request failed for howard springs: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=howard+springs&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:08,743 - INFO - Processing Record 8 of Set 7 | callao
+2024-04-10 19:30:08,949 - ERROR - Request failed for callao: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=callao&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:08,949 - INFO - Processing Record 9 of Set 7 | baki
+2024-04-10 19:30:09,146 - ERROR - Request failed for baki: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=baki&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:09,146 - INFO - Processing Record 10 of Set 7 | naushahro firoz
+2024-04-10 19:30:09,345 - ERROR - Request failed for naushahro firoz: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=naushahro+firoz&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:09,345 - INFO - Processing Record 11 of Set 7 | pacific grove
+2024-04-10 19:30:09,531 - ERROR - Request failed for pacific grove: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=pacific+grove&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:09,532 - INFO - Processing Record 12 of Set 7 | alo
+2024-04-10 19:30:09,715 - ERROR - Request failed for alo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=alo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:09,715 - INFO - Processing Record 13 of Set 7 | pajok
+2024-04-10 19:30:09,909 - ERROR - Request failed for pajok: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=pajok&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:09,910 - INFO - Processing Record 14 of Set 7 | pelagiada
+2024-04-10 19:30:10,133 - ERROR - Request failed for pelagiada: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=pelagiada&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:10,133 - INFO - Processing Record 15 of Set 7 | ponta delgada
+2024-04-10 19:30:10,335 - ERROR - Request failed for ponta delgada: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ponta+delgada&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:10,335 - INFO - Processing Record 16 of Set 7 | vohimanitra
+2024-04-10 19:30:10,545 - ERROR - Request failed for vohimanitra: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=vohimanitra&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:10,545 - INFO - Processing Record 17 of Set 7 | dera ismail khan
+2024-04-10 19:30:10,823 - ERROR - Request failed for dera ismail khan: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=dera+ismail+khan&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:10,824 - INFO - Processing Record 18 of Set 7 | bumbesti-jiu
+2024-04-10 19:30:11,043 - ERROR - Request failed for bumbesti-jiu: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=bumbesti-jiu&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:11,044 - INFO - Processing Record 19 of Set 7 | tabas
+2024-04-10 19:30:11,239 - ERROR - Request failed for tabas: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=tabas&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:11,239 - INFO - Processing Record 20 of Set 7 | charlotte amalie
+2024-04-10 19:30:11,430 - ERROR - Request failed for charlotte amalie: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=charlotte+amalie&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:11,430 - INFO - Processing Record 21 of Set 7 | apolinario saravia
+2024-04-10 19:30:11,685 - ERROR - Request failed for apolinario saravia: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=apolinario+saravia&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:11,686 - INFO - Processing Record 22 of Set 7 | san luis de la loma
+2024-04-10 19:30:11,883 - ERROR - Request failed for san luis de la loma: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=san+luis+de+la+loma&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:11,883 - INFO - Processing Record 23 of Set 7 | emerald
+2024-04-10 19:30:12,078 - ERROR - Request failed for emerald: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=emerald&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:12,078 - INFO - Processing Record 24 of Set 7 | port alberni
+2024-04-10 19:30:12,269 - ERROR - Request failed for port alberni: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=port+alberni&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:12,269 - INFO - Processing Record 25 of Set 7 | parras de la fuente
+2024-04-10 19:30:12,471 - ERROR - Request failed for parras de la fuente: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=parras+de+la+fuente&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:12,471 - INFO - Processing Record 26 of Set 7 | namibe
+2024-04-10 19:30:12,672 - ERROR - Request failed for namibe: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=namibe&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:12,672 - INFO - Processing Record 27 of Set 7 | kapuskasing
+2024-04-10 19:30:12,866 - ERROR - Request failed for kapuskasing: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kapuskasing&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:12,866 - INFO - Processing Record 28 of Set 7 | al qitena
+2024-04-10 19:30:13,052 - ERROR - Request failed for al qitena: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=al+qitena&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:13,052 - INFO - Processing Record 29 of Set 7 | juva
+2024-04-10 19:30:13,322 - ERROR - Request failed for juva: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=juva&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:13,322 - INFO - Processing Record 30 of Set 7 | malpica
+2024-04-10 19:30:13,524 - ERROR - Request failed for malpica: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=malpica&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:13,525 - INFO - Processing Record 31 of Set 7 | vikulovo
+2024-04-10 19:30:13,710 - ERROR - Request failed for vikulovo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=vikulovo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:13,710 - INFO - Processing Record 32 of Set 7 | vershino-darasunskiy
+2024-04-10 19:30:13,896 - ERROR - Request failed for vershino-darasunskiy: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=vershino-darasunskiy&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:13,896 - INFO - Processing Record 33 of Set 7 | magumeri
+2024-04-10 19:30:14,173 - ERROR - Request failed for magumeri: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=magumeri&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:14,173 - INFO - Processing Record 34 of Set 7 | viqueque
+2024-04-10 19:30:14,384 - ERROR - Request failed for viqueque: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=viqueque&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:14,385 - INFO - Processing Record 35 of Set 7 | orsa
+2024-04-10 19:30:14,604 - ERROR - Request failed for orsa: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=orsa&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:14,604 - INFO - Processing Record 36 of Set 7 | san juan
+2024-04-10 19:30:14,807 - ERROR - Request failed for san juan: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=san+juan&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:14,807 - INFO - Processing Record 37 of Set 7 | burang
+2024-04-10 19:30:14,997 - ERROR - Request failed for burang: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=burang&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:14,998 - INFO - Processing Record 38 of Set 7 | arteche
+2024-04-10 19:30:15,246 - ERROR - Request failed for arteche: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=arteche&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:15,246 - INFO - Processing Record 39 of Set 7 | ardestan
+2024-04-10 19:30:15,443 - ERROR - Request failed for ardestan: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ardestan&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:15,443 - INFO - Processing Record 40 of Set 7 | walvis bay
+2024-04-10 19:30:15,640 - ERROR - Request failed for walvis bay: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=walvis+bay&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:15,640 - INFO - Processing Record 41 of Set 7 | ribeira grande
+2024-04-10 19:30:15,863 - ERROR - Request failed for ribeira grande: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ribeira+grande&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:15,863 - INFO - Processing Record 42 of Set 7 | sretensk
+2024-04-10 19:30:16,065 - ERROR - Request failed for sretensk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sretensk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:16,065 - INFO - Processing Record 43 of Set 7 | madison
+2024-04-10 19:30:16,259 - ERROR - Request failed for madison: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=madison&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:16,259 - INFO - Processing Record 44 of Set 7 | champerico
+2024-04-10 19:30:16,471 - ERROR - Request failed for champerico: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=champerico&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:16,471 - INFO - Processing Record 45 of Set 7 | saurimo
+2024-04-10 19:30:16,686 - ERROR - Request failed for saurimo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=saurimo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:16,686 - INFO - Processing Record 46 of Set 7 | dinard
+2024-04-10 19:30:16,890 - ERROR - Request failed for dinard: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=dinard&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:16,891 - INFO - Processing Record 47 of Set 7 | falciu
+2024-04-10 19:30:17,105 - ERROR - Request failed for falciu: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=falciu&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:17,106 - INFO - Processing Record 48 of Set 7 | as sulayyil
+2024-04-10 19:30:17,362 - ERROR - Request failed for as sulayyil: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=as+sulayyil&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:17,363 - INFO - Processing Record 49 of Set 7 | daru
+2024-04-10 19:30:17,580 - ERROR - Request failed for daru: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=daru&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:17,580 - INFO - Processing Record 50 of Set 7 | an nuhud
+2024-04-10 19:30:17,802 - ERROR - Request failed for an nuhud: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=an+nuhud&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:17,802 - INFO - Processing Record 1 of Set 8 | mahina
+2024-04-10 19:30:18,027 - ERROR - Request failed for mahina: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=mahina&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:18,027 - INFO - Processing Record 2 of Set 8 | jaisalmer
+2024-04-10 19:30:18,221 - ERROR - Request failed for jaisalmer: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=jaisalmer&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:18,222 - INFO - Processing Record 3 of Set 8 | flying fish cove
+2024-04-10 19:30:18,415 - ERROR - Request failed for flying fish cove: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=flying+fish+cove&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:18,415 - INFO - Processing Record 4 of Set 8 | haiku-pauwela
+2024-04-10 19:30:18,600 - ERROR - Request failed for haiku-pauwela: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=haiku-pauwela&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:18,600 - INFO - Processing Record 5 of Set 8 | kavieng
+2024-04-10 19:30:18,793 - ERROR - Request failed for kavieng: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kavieng&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:18,793 - INFO - Processing Record 6 of Set 8 | pante makasar
+2024-04-10 19:30:19,052 - ERROR - Request failed for pante makasar: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=pante+makasar&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:19,053 - INFO - Processing Record 7 of Set 8 | margate
+2024-04-10 19:30:19,256 - ERROR - Request failed for margate: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=margate&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:19,256 - INFO - Processing Record 8 of Set 8 | outokumpu
+2024-04-10 19:30:19,444 - ERROR - Request failed for outokumpu: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=outokumpu&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:19,444 - INFO - Processing Record 9 of Set 8 | espargos
+2024-04-10 19:30:19,696 - ERROR - Request failed for espargos: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=espargos&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:19,697 - INFO - Processing Record 10 of Set 8 | salinopolis
+2024-04-10 19:30:19,966 - ERROR - Request failed for salinopolis: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=salinopolis&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:19,966 - INFO - Processing Record 11 of Set 8 | st. john's
+2024-04-10 19:30:20,180 - ERROR - Request failed for st. john's: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=st.+john%27s&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:20,180 - INFO - Processing Record 12 of Set 8 | isla vista
+2024-04-10 19:30:20,380 - ERROR - Request failed for isla vista: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=isla+vista&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:20,381 - INFO - Processing Record 13 of Set 8 | jose mariano jimenez
+2024-04-10 19:30:20,691 - ERROR - Request failed for jose mariano jimenez: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=jose+mariano+jimenez&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:20,691 - INFO - Processing Record 14 of Set 8 | rangia
+2024-04-10 19:30:20,906 - ERROR - Request failed for rangia: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=rangia&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:20,906 - INFO - Processing Record 15 of Set 8 | la sarre
+2024-04-10 19:30:21,096 - ERROR - Request failed for la sarre: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=la+sarre&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:21,096 - INFO - Processing Record 16 of Set 8 | puerto san carlos
+2024-04-10 19:30:21,387 - ERROR - Request failed for puerto san carlos: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=puerto+san+carlos&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:21,388 - INFO - Processing Record 17 of Set 8 | kamen'-rybolov
+2024-04-10 19:30:21,592 - ERROR - Request failed for kamen'-rybolov: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kamen%27-rybolov&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:21,593 - INFO - Processing Record 18 of Set 8 | gillette
+2024-04-10 19:30:21,799 - ERROR - Request failed for gillette: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=gillette&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:21,799 - INFO - Processing Record 19 of Set 8 | nizhniy lomov
+2024-04-10 19:30:22,028 - ERROR - Request failed for nizhniy lomov: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=nizhniy+lomov&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:22,028 - INFO - Processing Record 20 of Set 8 | mukalla
+2024-04-10 19:30:22,223 - ERROR - Request failed for mukalla: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=mukalla&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:22,223 - INFO - Processing Record 21 of Set 8 | chimbote
+2024-04-10 19:30:22,415 - ERROR - Request failed for chimbote: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=chimbote&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:22,415 - INFO - Processing Record 22 of Set 8 | luderitz
+2024-04-10 19:30:22,655 - ERROR - Request failed for luderitz: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=luderitz&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:22,656 - INFO - Processing Record 23 of Set 8 | neiafu
+2024-04-10 19:30:22,867 - ERROR - Request failed for neiafu: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=neiafu&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:22,868 - INFO - Processing Record 24 of Set 8 | humahuaca
+2024-04-10 19:30:23,096 - ERROR - Request failed for humahuaca: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=humahuaca&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:23,097 - INFO - Processing Record 25 of Set 8 | aleksin
+2024-04-10 19:30:23,368 - ERROR - Request failed for aleksin: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=aleksin&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:23,368 - INFO - Processing Record 26 of Set 8 | thomasville
+2024-04-10 19:30:23,554 - ERROR - Request failed for thomasville: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=thomasville&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:23,554 - INFO - Processing Record 27 of Set 8 | chichimila
+2024-04-10 19:30:23,744 - ERROR - Request failed for chichimila: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=chichimila&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:23,744 - INFO - Processing Record 28 of Set 8 | claver
+2024-04-10 19:30:23,987 - ERROR - Request failed for claver: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=claver&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:23,987 - INFO - Processing Record 29 of Set 8 | penzance
+2024-04-10 19:30:24,200 - ERROR - Request failed for penzance: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=penzance&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:24,200 - INFO - Processing Record 30 of Set 8 | conception bay south
+2024-04-10 19:30:24,416 - ERROR - Request failed for conception bay south: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=conception+bay+south&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:24,416 - INFO - Processing Record 31 of Set 8 | sishilichengzi
+2024-04-10 19:30:24,638 - ERROR - Request failed for sishilichengzi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sishilichengzi&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:24,639 - INFO - Processing Record 32 of Set 8 | rockland
+2024-04-10 19:30:24,836 - ERROR - Request failed for rockland: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=rockland&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:24,836 - INFO - Processing Record 33 of Set 8 | gazli
+2024-04-10 19:30:25,122 - ERROR - Request failed for gazli: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=gazli&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:25,122 - INFO - Processing Record 34 of Set 8 | nadym
+2024-04-10 19:30:25,348 - ERROR - Request failed for nadym: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=nadym&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:25,348 - INFO - Processing Record 35 of Set 8 | marsabit
+2024-04-10 19:30:25,579 - ERROR - Request failed for marsabit: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=marsabit&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:25,580 - INFO - Processing Record 36 of Set 8 | vila franca do campo
+2024-04-10 19:30:25,803 - ERROR - Request failed for vila franca do campo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=vila+franca+do+campo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:25,803 - INFO - Processing Record 37 of Set 8 | nizhneangarsk
+2024-04-10 19:30:26,065 - ERROR - Request failed for nizhneangarsk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=nizhneangarsk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:26,065 - INFO - Processing Record 38 of Set 8 | baluntaicun
+2024-04-10 19:30:26,305 - ERROR - Request failed for baluntaicun: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=baluntaicun&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:26,305 - INFO - Processing Record 39 of Set 8 | bakchar
+2024-04-10 19:30:26,496 - ERROR - Request failed for bakchar: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=bakchar&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:26,496 - INFO - Processing Record 40 of Set 8 | urzhar
+2024-04-10 19:30:26,764 - ERROR - Request failed for urzhar: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=urzhar&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:26,765 - INFO - Processing Record 41 of Set 8 | sao lourenco do sul
+2024-04-10 19:30:26,994 - ERROR - Request failed for sao lourenco do sul: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sao+lourenco+do+sul&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:26,994 - INFO - Processing Record 42 of Set 8 | deqen
+2024-04-10 19:30:27,219 - ERROR - Request failed for deqen: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=deqen&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:27,220 - INFO - Processing Record 43 of Set 8 | i-n-salah
+2024-04-10 19:30:27,430 - ERROR - Request failed for i-n-salah: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=i-n-salah&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:27,430 - INFO - Processing Record 44 of Set 8 | kruisfontein
+2024-04-10 19:30:27,647 - ERROR - Request failed for kruisfontein: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kruisfontein&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:27,647 - INFO - Processing Record 45 of Set 8 | taiyuan
+2024-04-10 19:30:27,841 - ERROR - Request failed for taiyuan: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=taiyuan&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:27,841 - INFO - Processing Record 46 of Set 8 | lakatoro
+2024-04-10 19:30:28,025 - ERROR - Request failed for lakatoro: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=lakatoro&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:28,026 - INFO - Processing Record 47 of Set 8 | san juan de miraflores
+2024-04-10 19:30:28,238 - ERROR - Request failed for san juan de miraflores: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=san+juan+de+miraflores&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:28,238 - INFO - Processing Record 48 of Set 8 | azhiyur
+2024-04-10 19:30:28,470 - ERROR - Request failed for azhiyur: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=azhiyur&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:28,471 - INFO - Processing Record 49 of Set 8 | thomaston
+2024-04-10 19:30:28,674 - ERROR - Request failed for thomaston: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=thomaston&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:28,675 - INFO - Processing Record 50 of Set 8 | yutan
+2024-04-10 19:30:28,869 - ERROR - Request failed for yutan: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=yutan&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:28,870 - INFO - Processing Record 1 of Set 9 | kralendijk
+2024-04-10 19:30:29,085 - ERROR - Request failed for kralendijk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kralendijk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:29,086 - INFO - Processing Record 2 of Set 9 | arkhangel'sk
+2024-04-10 19:30:29,271 - ERROR - Request failed for arkhangel'sk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=arkhangel%27sk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:29,271 - INFO - Processing Record 3 of Set 9 | nogliki
+2024-04-10 19:30:29,479 - ERROR - Request failed for nogliki: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=nogliki&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:29,479 - INFO - Processing Record 4 of Set 9 | arraial do cabo
+2024-04-10 19:30:29,675 - ERROR - Request failed for arraial do cabo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=arraial+do+cabo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:29,675 - INFO - Processing Record 5 of Set 9 | karratha
+2024-04-10 19:30:29,877 - ERROR - Request failed for karratha: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=karratha&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:29,877 - INFO - Processing Record 6 of Set 9 | rongelap
+2024-04-10 19:30:30,083 - ERROR - Request failed for rongelap: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=rongelap&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:30,084 - INFO - Processing Record 7 of Set 9 | musay'id
+2024-04-10 19:30:30,270 - ERROR - Request failed for musay'id: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=musay%27id&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:30,270 - INFO - Processing Record 8 of Set 9 | bethanie
+2024-04-10 19:30:30,450 - ERROR - Request failed for bethanie: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=bethanie&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:30,450 - INFO - Processing Record 9 of Set 9 | ar ruways
+2024-04-10 19:30:30,645 - ERROR - Request failed for ar ruways: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ar+ruways&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:30,645 - INFO - Processing Record 10 of Set 9 | victorica
+2024-04-10 19:30:30,837 - ERROR - Request failed for victorica: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=victorica&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:30,838 - INFO - Processing Record 11 of Set 9 | la maddalena
+2024-04-10 19:30:31,137 - ERROR - Request failed for la maddalena: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=la+maddalena&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:31,138 - INFO - Processing Record 12 of Set 9 | lagos
+2024-04-10 19:30:31,356 - ERROR - Request failed for lagos: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=lagos&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:31,356 - INFO - Processing Record 13 of Set 9 | tabou
+2024-04-10 19:30:31,550 - ERROR - Request failed for tabou: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=tabou&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:31,550 - INFO - Processing Record 14 of Set 9 | arsikere
+2024-04-10 19:30:31,762 - ERROR - Request failed for arsikere: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=arsikere&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:31,762 - INFO - Processing Record 15 of Set 9 | reggane
+2024-04-10 19:30:32,008 - ERROR - Request failed for reggane: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=reggane&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:32,008 - INFO - Processing Record 16 of Set 9 | santa lucia
+2024-04-10 19:30:32,214 - ERROR - Request failed for santa lucia: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=santa+lucia&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:32,214 - INFO - Processing Record 17 of Set 9 | charlottetown
+2024-04-10 19:30:32,409 - ERROR - Request failed for charlottetown: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=charlottetown&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:32,410 - INFO - Processing Record 18 of Set 9 | majie
+2024-04-10 19:30:32,627 - ERROR - Request failed for majie: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=majie&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:32,627 - INFO - Processing Record 19 of Set 9 | guarapari
+2024-04-10 19:30:32,821 - ERROR - Request failed for guarapari: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=guarapari&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:32,821 - INFO - Processing Record 20 of Set 9 | ewo
+2024-04-10 19:30:33,004 - ERROR - Request failed for ewo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ewo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:33,004 - INFO - Processing Record 21 of Set 9 | princeville
+2024-04-10 19:30:33,201 - ERROR - Request failed for princeville: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=princeville&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:33,201 - INFO - Processing Record 22 of Set 9 | buka
+2024-04-10 19:30:33,384 - ERROR - Request failed for buka: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=buka&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:33,384 - INFO - Processing Record 23 of Set 9 | koryazhma
+2024-04-10 19:30:33,564 - ERROR - Request failed for koryazhma: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=koryazhma&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:33,564 - INFO - Processing Record 24 of Set 9 | braidwood
+2024-04-10 19:30:33,816 - ERROR - Request failed for braidwood: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=braidwood&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:33,817 - INFO - Processing Record 25 of Set 9 | nivala
+2024-04-10 19:30:34,010 - ERROR - Request failed for nivala: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=nivala&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:34,010 - INFO - Processing Record 26 of Set 9 | devinuwara
+2024-04-10 19:30:34,198 - ERROR - Request failed for devinuwara: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=devinuwara&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:34,199 - INFO - Processing Record 27 of Set 9 | port blair
+2024-04-10 19:30:34,385 - ERROR - Request failed for port blair: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=port+blair&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:34,385 - INFO - Processing Record 28 of Set 9 | hammerfest
+2024-04-10 19:30:34,605 - ERROR - Request failed for hammerfest: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=hammerfest&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:34,606 - INFO - Processing Record 29 of Set 9 | santana
+2024-04-10 19:30:34,892 - ERROR - Request failed for santana: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=santana&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:34,892 - INFO - Processing Record 30 of Set 9 | laguna
+2024-04-10 19:30:35,090 - ERROR - Request failed for laguna: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=laguna&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:35,090 - INFO - Processing Record 31 of Set 9 | kincardine
+2024-04-10 19:30:35,283 - ERROR - Request failed for kincardine: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kincardine&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:35,283 - INFO - Processing Record 32 of Set 9 | kone
+2024-04-10 19:30:35,473 - ERROR - Request failed for kone: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kone&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:35,474 - INFO - Processing Record 33 of Set 9 | el daein
+2024-04-10 19:30:35,666 - ERROR - Request failed for el daein: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=el+daein&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:35,666 - INFO - Processing Record 34 of Set 9 | swiecie
+2024-04-10 19:30:35,886 - ERROR - Request failed for swiecie: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=swiecie&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:35,887 - INFO - Processing Record 35 of Set 9 | safford
+2024-04-10 19:30:36,079 - ERROR - Request failed for safford: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=safford&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:36,079 - INFO - Processing Record 36 of Set 9 | bowen
+2024-04-10 19:30:36,267 - ERROR - Request failed for bowen: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=bowen&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:36,267 - INFO - Processing Record 37 of Set 9 | zhongshu
+2024-04-10 19:30:36,463 - ERROR - Request failed for zhongshu: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=zhongshu&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:36,463 - INFO - Processing Record 38 of Set 9 | badger
+2024-04-10 19:30:36,730 - ERROR - Request failed for badger: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=badger&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:36,730 - INFO - Processing Record 39 of Set 9 | marvejols
+2024-04-10 19:30:36,927 - ERROR - Request failed for marvejols: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=marvejols&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:36,927 - INFO - Processing Record 40 of Set 9 | saint-paul
+2024-04-10 19:30:37,148 - ERROR - Request failed for saint-paul: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=saint-paul&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:37,148 - INFO - Processing Record 41 of Set 9 | revda
+2024-04-10 19:30:37,363 - ERROR - Request failed for revda: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=revda&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:37,363 - INFO - Processing Record 42 of Set 9 | alotau
+2024-04-10 19:30:37,632 - ERROR - Request failed for alotau: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=alotau&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:37,632 - INFO - Processing Record 43 of Set 9 | ust'-kulom
+2024-04-10 19:30:37,881 - ERROR - Request failed for ust'-kulom: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ust%27-kulom&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:37,881 - INFO - Processing Record 44 of Set 9 | mudon
+2024-04-10 19:30:38,126 - ERROR - Request failed for mudon: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=mudon&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:38,126 - INFO - Processing Record 45 of Set 9 | olyokminsk
+2024-04-10 19:30:38,329 - ERROR - Request failed for olyokminsk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=olyokminsk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:38,329 - INFO - Processing Record 46 of Set 9 | atar
+2024-04-10 19:30:38,526 - ERROR - Request failed for atar: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=atar&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:38,526 - INFO - Processing Record 47 of Set 9 | murzuq
+2024-04-10 19:30:38,718 - ERROR - Request failed for murzuq: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=murzuq&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:38,718 - INFO - Processing Record 48 of Set 9 | segou
+2024-04-10 19:30:38,915 - ERROR - Request failed for segou: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=segou&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:38,915 - INFO - Processing Record 49 of Set 9 | cargados carajos
+2024-04-10 19:30:39,139 - ERROR - Request failed for cargados carajos: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=cargados+carajos&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:39,139 - INFO - Processing Record 50 of Set 9 | skeldon
+2024-04-10 19:30:39,325 - ERROR - Request failed for skeldon: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=skeldon&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:39,325 - INFO - Processing Record 1 of Set 10 | acapulco de juarez
+2024-04-10 19:30:39,515 - ERROR - Request failed for acapulco de juarez: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=acapulco+de+juarez&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:39,516 - INFO - Processing Record 2 of Set 10 | crane
+2024-04-10 19:30:39,705 - ERROR - Request failed for crane: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=crane&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:39,705 - INFO - Processing Record 3 of Set 10 | port hedland
+2024-04-10 19:30:39,882 - ERROR - Request failed for port hedland: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=port+hedland&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:39,883 - INFO - Processing Record 4 of Set 10 | salalah
+2024-04-10 19:30:40,065 - ERROR - Request failed for salalah: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=salalah&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:40,065 - INFO - Processing Record 5 of Set 10 | skiathos
+2024-04-10 19:30:40,257 - ERROR - Request failed for skiathos: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=skiathos&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:40,257 - INFO - Processing Record 6 of Set 10 | balykshi
+2024-04-10 19:30:40,453 - ERROR - Request failed for balykshi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=balykshi&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:40,453 - INFO - Processing Record 7 of Set 10 | itamaraca
+2024-04-10 19:30:40,713 - ERROR - Request failed for itamaraca: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=itamaraca&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:40,713 - INFO - Processing Record 8 of Set 10 | plymouth
+2024-04-10 19:30:40,922 - ERROR - Request failed for plymouth: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=plymouth&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:40,923 - INFO - Processing Record 9 of Set 10 | ahus
+2024-04-10 19:30:41,119 - ERROR - Request failed for ahus: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ahus&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:41,119 - INFO - Processing Record 10 of Set 10 | harstad
+2024-04-10 19:30:41,309 - ERROR - Request failed for harstad: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=harstad&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:41,309 - INFO - Processing Record 11 of Set 10 | beledweyne
+2024-04-10 19:30:41,518 - ERROR - Request failed for beledweyne: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=beledweyne&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:41,518 - INFO - Processing Record 12 of Set 10 | uyuni
+2024-04-10 19:30:41,717 - ERROR - Request failed for uyuni: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=uyuni&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:41,717 - INFO - Processing Record 13 of Set 10 | nova xavantina
+2024-04-10 19:30:41,921 - ERROR - Request failed for nova xavantina: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=nova+xavantina&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:41,921 - INFO - Processing Record 14 of Set 10 | kuqa
+2024-04-10 19:30:42,126 - ERROR - Request failed for kuqa: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kuqa&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:42,126 - INFO - Processing Record 15 of Set 10 | piti village
+2024-04-10 19:30:42,407 - ERROR - Request failed for piti village: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=piti+village&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:42,407 - INFO - Processing Record 16 of Set 10 | huangshan
+2024-04-10 19:30:42,601 - ERROR - Request failed for huangshan: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=huangshan&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:42,601 - INFO - Processing Record 17 of Set 10 | asau
+2024-04-10 19:30:42,801 - ERROR - Request failed for asau: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=asau&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:42,801 - INFO - Processing Record 18 of Set 10 | santa margherita ligure
+2024-04-10 19:30:42,993 - ERROR - Request failed for santa margherita ligure: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=santa+margherita+ligure&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:42,993 - INFO - Processing Record 19 of Set 10 | albertina
+2024-04-10 19:30:43,200 - ERROR - Request failed for albertina: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=albertina&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:43,200 - INFO - Processing Record 20 of Set 10 | maracaju
+2024-04-10 19:30:43,459 - ERROR - Request failed for maracaju: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=maracaju&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:43,460 - INFO - Processing Record 21 of Set 10 | sovetskaya gavan'
+2024-04-10 19:30:43,651 - ERROR - Request failed for sovetskaya gavan': 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sovetskaya+gavan%27&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:43,652 - INFO - Processing Record 22 of Set 10 | greenville
+2024-04-10 19:30:43,854 - ERROR - Request failed for greenville: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=greenville&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:43,854 - INFO - Processing Record 23 of Set 10 | bunumbu
+2024-04-10 19:30:44,051 - ERROR - Request failed for bunumbu: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=bunumbu&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:44,051 - INFO - Processing Record 24 of Set 10 | hami
+2024-04-10 19:30:44,270 - ERROR - Request failed for hami: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=hami&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:44,270 - INFO - Processing Record 25 of Set 10 | sanctuary point
+2024-04-10 19:30:44,465 - ERROR - Request failed for sanctuary point: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sanctuary+point&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:44,465 - INFO - Processing Record 26 of Set 10 | padang
+2024-04-10 19:30:44,669 - ERROR - Request failed for padang: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=padang&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:44,669 - INFO - Processing Record 27 of Set 10 | kratie
+2024-04-10 19:30:44,869 - ERROR - Request failed for kratie: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kratie&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:44,869 - INFO - Processing Record 28 of Set 10 | machiques
+2024-04-10 19:30:45,146 - ERROR - Request failed for machiques: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=machiques&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:45,147 - INFO - Processing Record 29 of Set 10 | al jawf
+2024-04-10 19:30:45,350 - ERROR - Request failed for al jawf: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=al+jawf&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:45,350 - INFO - Processing Record 30 of Set 10 | ongjin
+2024-04-10 19:30:45,566 - ERROR - Request failed for ongjin: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ongjin&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:45,567 - INFO - Processing Record 31 of Set 10 | hazorasp
+2024-04-10 19:30:45,762 - ERROR - Request failed for hazorasp: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=hazorasp&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:45,762 - INFO - Processing Record 32 of Set 10 | petershagen
+2024-04-10 19:30:45,955 - ERROR - Request failed for petershagen: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=petershagen&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:45,955 - INFO - Processing Record 33 of Set 10 | lesnoy
+2024-04-10 19:30:46,145 - ERROR - Request failed for lesnoy: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=lesnoy&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:46,145 - INFO - Processing Record 34 of Set 10 | mhamid
+2024-04-10 19:30:46,333 - ERROR - Request failed for mhamid: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=mhamid&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:46,333 - INFO - Processing Record 35 of Set 10 | morehead city
+2024-04-10 19:30:46,572 - ERROR - Request failed for morehead city: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=morehead+city&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:46,572 - INFO - Processing Record 36 of Set 10 | den burg
+2024-04-10 19:30:46,763 - ERROR - Request failed for den burg: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=den+burg&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:46,763 - INFO - Processing Record 37 of Set 10 | pokachi
+2024-04-10 19:30:46,977 - ERROR - Request failed for pokachi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=pokachi&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:46,977 - INFO - Processing Record 38 of Set 10 | hithadhoo
+2024-04-10 19:30:47,204 - ERROR - Request failed for hithadhoo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=hithadhoo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:47,205 - INFO - Processing Record 39 of Set 10 | kalianget
+2024-04-10 19:30:47,424 - ERROR - Request failed for kalianget: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kalianget&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:47,424 - INFO - Processing Record 40 of Set 10 | balabac
+2024-04-10 19:30:47,616 - ERROR - Request failed for balabac: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=balabac&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:47,616 - INFO - Processing Record 41 of Set 10 | port saint john's
+2024-04-10 19:30:47,850 - ERROR - Request failed for port saint john's: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=port+saint+john%27s&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:47,850 - INFO - Processing Record 42 of Set 10 | francistown
+2024-04-10 19:30:48,070 - ERROR - Request failed for francistown: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=francistown&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:48,070 - INFO - Processing Record 43 of Set 10 | saint-francois
+2024-04-10 19:30:48,263 - ERROR - Request failed for saint-francois: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=saint-francois&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:48,263 - INFO - Processing Record 44 of Set 10 | ocean shores
+2024-04-10 19:30:48,442 - ERROR - Request failed for ocean shores: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ocean+shores&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:48,442 - INFO - Processing Record 45 of Set 10 | klaksvik
+2024-04-10 19:30:48,676 - ERROR - Request failed for klaksvik: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=klaksvik&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:48,677 - INFO - Processing Record 46 of Set 10 | hotan
+2024-04-10 19:30:48,861 - ERROR - Request failed for hotan: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=hotan&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:48,862 - INFO - Processing Record 47 of Set 10 | kinablangan
+2024-04-10 19:30:49,061 - ERROR - Request failed for kinablangan: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kinablangan&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:49,061 - INFO - Processing Record 48 of Set 10 | kunszentmarton
+2024-04-10 19:30:49,349 - ERROR - Request failed for kunszentmarton: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kunszentmarton&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:49,350 - INFO - Processing Record 49 of Set 10 | porto novo
+2024-04-10 19:30:49,544 - ERROR - Request failed for porto novo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=porto+novo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:49,545 - INFO - Processing Record 50 of Set 10 | at taj
+2024-04-10 19:30:49,729 - ERROR - Request failed for at taj: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=at+taj&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:49,729 - INFO - Processing Record 1 of Set 11 | awjilah
+2024-04-10 19:30:49,923 - ERROR - Request failed for awjilah: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=awjilah&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:49,923 - INFO - Processing Record 2 of Set 11 | culiacan
+2024-04-10 19:30:50,123 - ERROR - Request failed for culiacan: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=culiacan&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:50,123 - INFO - Processing Record 3 of Set 11 | harris hill
+2024-04-10 19:30:50,367 - ERROR - Request failed for harris hill: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=harris+hill&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:50,367 - INFO - Processing Record 4 of Set 11 | angermunde
+2024-04-10 19:30:50,563 - ERROR - Request failed for angermunde: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=angermunde&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:50,564 - INFO - Processing Record 5 of Set 11 | marsh harbour
+2024-04-10 19:30:50,823 - ERROR - Request failed for marsh harbour: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=marsh+harbour&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:50,823 - INFO - Processing Record 6 of Set 11 | yeppoon
+2024-04-10 19:30:51,023 - ERROR - Request failed for yeppoon: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=yeppoon&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:51,023 - INFO - Processing Record 7 of Set 11 | kurmuk
+2024-04-10 19:30:51,204 - ERROR - Request failed for kurmuk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kurmuk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:51,204 - INFO - Processing Record 8 of Set 11 | talca
+2024-04-10 19:30:51,399 - ERROR - Request failed for talca: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=talca&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:51,399 - INFO - Processing Record 9 of Set 11 | newman
+2024-04-10 19:30:51,592 - ERROR - Request failed for newman: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=newman&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:51,592 - INFO - Processing Record 10 of Set 11 | ghat
+2024-04-10 19:30:51,914 - ERROR - Request failed for ghat: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ghat&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:51,914 - INFO - Processing Record 11 of Set 11 | katabu
+2024-04-10 19:30:52,112 - ERROR - Request failed for katabu: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=katabu&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:52,112 - INFO - Processing Record 12 of Set 11 | alofi
+2024-04-10 19:30:52,309 - ERROR - Request failed for alofi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=alofi&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:52,309 - INFO - Processing Record 13 of Set 11 | mount pearl
+2024-04-10 19:30:52,500 - ERROR - Request failed for mount pearl: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=mount+pearl&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:52,500 - INFO - Processing Record 14 of Set 11 | abnub
+2024-04-10 19:30:52,688 - ERROR - Request failed for abnub: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=abnub&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:52,688 - INFO - Processing Record 15 of Set 11 | longonjo
+2024-04-10 19:30:52,869 - ERROR - Request failed for longonjo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=longonjo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:52,869 - INFO - Processing Record 16 of Set 11 | semey
+2024-04-10 19:30:53,054 - ERROR - Request failed for semey: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=semey&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:53,054 - INFO - Processing Record 17 of Set 11 | deschutes river woods
+2024-04-10 19:30:53,321 - ERROR - Request failed for deschutes river woods: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=deschutes+river+woods&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:53,321 - INFO - Processing Record 18 of Set 11 | quelimane
+2024-04-10 19:30:53,505 - ERROR - Request failed for quelimane: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=quelimane&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:53,506 - INFO - Processing Record 19 of Set 11 | ad dawadimi
+2024-04-10 19:30:53,684 - ERROR - Request failed for ad dawadimi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ad+dawadimi&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:53,684 - INFO - Processing Record 20 of Set 11 | hovd
+2024-04-10 19:30:53,873 - ERROR - Request failed for hovd: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=hovd&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:53,873 - INFO - Processing Record 21 of Set 11 | nuuk
+2024-04-10 19:30:54,064 - ERROR - Request failed for nuuk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=nuuk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:54,064 - INFO - Processing Record 22 of Set 11 | stephenville
+2024-04-10 19:30:54,387 - ERROR - Request failed for stephenville: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=stephenville&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:54,387 - INFO - Processing Record 23 of Set 11 | la'ie
+2024-04-10 19:30:54,574 - ERROR - Request failed for la'ie: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=la%27ie&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:54,575 - INFO - Processing Record 24 of Set 11 | labuan bajo
+2024-04-10 19:30:54,829 - ERROR - Request failed for labuan bajo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=labuan+bajo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:54,830 - INFO - Processing Record 25 of Set 11 | kimbe
+2024-04-10 19:30:55,089 - ERROR - Request failed for kimbe: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kimbe&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:55,089 - INFO - Processing Record 26 of Set 11 | makamba
+2024-04-10 19:30:55,284 - ERROR - Request failed for makamba: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=makamba&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:55,284 - INFO - Processing Record 27 of Set 11 | inekar
+2024-04-10 19:30:55,475 - ERROR - Request failed for inekar: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=inekar&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:55,475 - INFO - Processing Record 28 of Set 11 | waat
+2024-04-10 19:30:55,673 - ERROR - Request failed for waat: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=waat&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:55,673 - INFO - Processing Record 29 of Set 11 | warmbad
+2024-04-10 19:30:55,862 - ERROR - Request failed for warmbad: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=warmbad&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:55,862 - INFO - Processing Record 30 of Set 11 | kenai
+2024-04-10 19:30:56,160 - ERROR - Request failed for kenai: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kenai&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:56,160 - INFO - Processing Record 31 of Set 11 | harnoli
+2024-04-10 19:30:56,353 - ERROR - Request failed for harnoli: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=harnoli&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:56,354 - INFO - Processing Record 32 of Set 11 | sagna
+2024-04-10 19:30:56,556 - ERROR - Request failed for sagna: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sagna&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:56,556 - INFO - Processing Record 33 of Set 11 | fuvahmulah
+2024-04-10 19:30:56,753 - ERROR - Request failed for fuvahmulah: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=fuvahmulah&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:56,754 - INFO - Processing Record 34 of Set 11 | ribeira brava
+2024-04-10 19:30:56,958 - ERROR - Request failed for ribeira brava: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ribeira+brava&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:56,958 - INFO - Processing Record 35 of Set 11 | ulsteinvik
+2024-04-10 19:30:57,155 - ERROR - Request failed for ulsteinvik: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ulsteinvik&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:57,155 - INFO - Processing Record 36 of Set 11 | taxisco
+2024-04-10 19:30:57,340 - ERROR - Request failed for taxisco: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=taxisco&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:57,340 - INFO - Processing Record 37 of Set 11 | sur
+2024-04-10 19:30:57,530 - ERROR - Request failed for sur: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sur&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:57,530 - INFO - Processing Record 38 of Set 11 | puerto santa
+2024-04-10 19:30:57,747 - ERROR - Request failed for puerto santa: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=puerto+santa&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:57,747 - INFO - Processing Record 39 of Set 11 | lichuan
+2024-04-10 19:30:57,989 - ERROR - Request failed for lichuan: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=lichuan&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:57,990 - INFO - Processing Record 40 of Set 11 | tshikapa
+2024-04-10 19:30:58,268 - ERROR - Request failed for tshikapa: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=tshikapa&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:58,268 - INFO - Processing Record 41 of Set 11 | urangan
+2024-04-10 19:30:58,455 - ERROR - Request failed for urangan: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=urangan&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:58,455 - INFO - Processing Record 42 of Set 11 | mossel bay
+2024-04-10 19:30:58,639 - ERROR - Request failed for mossel bay: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=mossel+bay&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:58,639 - INFO - Processing Record 43 of Set 11 | alice springs
+2024-04-10 19:30:58,829 - ERROR - Request failed for alice springs: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=alice+springs&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:58,829 - INFO - Processing Record 44 of Set 11 | cestos city
+2024-04-10 19:30:59,021 - ERROR - Request failed for cestos city: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=cestos+city&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:59,021 - INFO - Processing Record 45 of Set 11 | broome
+2024-04-10 19:30:59,226 - ERROR - Request failed for broome: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=broome&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:59,226 - INFO - Processing Record 46 of Set 11 | poronaysk
+2024-04-10 19:30:59,430 - ERROR - Request failed for poronaysk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=poronaysk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:59,430 - INFO - Processing Record 47 of Set 11 | ust'-ilimsk
+2024-04-10 19:30:59,619 - ERROR - Request failed for ust'-ilimsk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ust%27-ilimsk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:59,619 - INFO - Processing Record 48 of Set 11 | zhalantun
+2024-04-10 19:30:59,805 - ERROR - Request failed for zhalantun: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=zhalantun&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:59,805 - INFO - Processing Record 49 of Set 11 | badagry
+2024-04-10 19:30:59,988 - ERROR - Request failed for badagry: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=badagry&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:30:59,988 - INFO - Processing Record 50 of Set 11 | graneros
+2024-04-10 19:31:00,179 - ERROR - Request failed for graneros: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=graneros&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:00,179 - INFO - Processing Record 1 of Set 12 | stepnogorsk
+2024-04-10 19:31:00,443 - ERROR - Request failed for stepnogorsk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=stepnogorsk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:00,443 - INFO - Processing Record 2 of Set 12 | bhuban
+2024-04-10 19:31:00,650 - ERROR - Request failed for bhuban: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=bhuban&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:00,651 - INFO - Processing Record 3 of Set 12 | velyka dymerka
+2024-04-10 19:31:00,852 - ERROR - Request failed for velyka dymerka: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=velyka+dymerka&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:00,852 - INFO - Processing Record 4 of Set 12 | djambala
+2024-04-10 19:31:01,076 - ERROR - Request failed for djambala: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=djambala&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:01,076 - INFO - Processing Record 5 of Set 12 | susuman
+2024-04-10 19:31:01,312 - ERROR - Request failed for susuman: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=susuman&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:01,312 - INFO - Processing Record 6 of Set 12 | filingue
+2024-04-10 19:31:01,520 - ERROR - Request failed for filingue: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=filingue&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:01,520 - INFO - Processing Record 7 of Set 12 | kalymnos
+2024-04-10 19:31:01,777 - ERROR - Request failed for kalymnos: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kalymnos&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:01,777 - INFO - Processing Record 8 of Set 12 | pimenta bueno
+2024-04-10 19:31:01,971 - ERROR - Request failed for pimenta bueno: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=pimenta+bueno&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:01,972 - INFO - Processing Record 9 of Set 12 | dhangadhi
+2024-04-10 19:31:02,162 - ERROR - Request failed for dhangadhi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=dhangadhi&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:02,162 - INFO - Processing Record 10 of Set 12 | puerto lempira
+2024-04-10 19:31:02,350 - ERROR - Request failed for puerto lempira: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=puerto+lempira&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:02,350 - INFO - Processing Record 11 of Set 12 | antigonish
+2024-04-10 19:31:02,534 - ERROR - Request failed for antigonish: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=antigonish&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:02,534 - INFO - Processing Record 12 of Set 12 | kodiak
+2024-04-10 19:31:02,716 - ERROR - Request failed for kodiak: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kodiak&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:02,716 - INFO - Processing Record 13 of Set 12 | ambovombe
+2024-04-10 19:31:02,984 - ERROR - Request failed for ambovombe: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ambovombe&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:02,984 - INFO - Processing Record 14 of Set 12 | kaltan
+2024-04-10 19:31:03,267 - ERROR - Request failed for kaltan: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kaltan&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:03,267 - INFO - Processing Record 15 of Set 12 | ulanhot
+2024-04-10 19:31:03,463 - ERROR - Request failed for ulanhot: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ulanhot&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:03,463 - INFO - Processing Record 16 of Set 12 | kolonia
+2024-04-10 19:31:03,655 - ERROR - Request failed for kolonia: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=kolonia&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:03,655 - INFO - Processing Record 17 of Set 12 | sungai penuh
+2024-04-10 19:31:03,843 - ERROR - Request failed for sungai penuh: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sungai+penuh&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:03,843 - INFO - Processing Record 18 of Set 12 | sao joao da barra
+2024-04-10 19:31:04,032 - ERROR - Request failed for sao joao da barra: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sao+joao+da+barra&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:04,032 - INFO - Processing Record 19 of Set 12 | porto velho
+2024-04-10 19:31:04,234 - ERROR - Request failed for porto velho: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=porto+velho&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:04,235 - INFO - Processing Record 20 of Set 12 | usogorsk
+2024-04-10 19:31:04,525 - ERROR - Request failed for usogorsk: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=usogorsk&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:04,525 - INFO - Processing Record 21 of Set 12 | wanning
+2024-04-10 19:31:04,722 - ERROR - Request failed for wanning: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=wanning&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:04,722 - INFO - Processing Record 22 of Set 12 | westerland
+2024-04-10 19:31:04,948 - ERROR - Request failed for westerland: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=westerland&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:04,948 - INFO - Processing Record 23 of Set 12 | oppdal
+2024-04-10 19:31:05,170 - ERROR - Request failed for oppdal: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=oppdal&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:05,170 - INFO - Processing Record 24 of Set 12 | progreso
+2024-04-10 19:31:05,363 - ERROR - Request failed for progreso: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=progreso&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:05,363 - INFO - Processing Record 25 of Set 12 | camabatela
+2024-04-10 19:31:05,689 - ERROR - Request failed for camabatela: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=camabatela&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:05,689 - INFO - Processing Record 26 of Set 12 | argo
+2024-04-10 19:31:05,901 - ERROR - Request failed for argo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=argo&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:05,902 - INFO - Processing Record 27 of Set 12 | puerto baquerizo moreno
+2024-04-10 19:31:06,091 - ERROR - Request failed for puerto baquerizo moreno: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=puerto+baquerizo+moreno&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:06,091 - INFO - Processing Record 28 of Set 12 | zhangye
+2024-04-10 19:31:06,278 - ERROR - Request failed for zhangye: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=zhangye&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:06,279 - INFO - Processing Record 29 of Set 12 | abraham's bay
+2024-04-10 19:31:06,472 - ERROR - Request failed for abraham's bay: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=abraham%27s+bay&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:06,472 - INFO - Processing Record 30 of Set 12 | the bottom
+2024-04-10 19:31:06,655 - ERROR - Request failed for the bottom: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=the+bottom&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:06,655 - INFO - Processing Record 31 of Set 12 | auki
+2024-04-10 19:31:06,833 - ERROR - Request failed for auki: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=auki&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:06,834 - INFO - Processing Record 32 of Set 12 | east liverpool
+2024-04-10 19:31:07,118 - ERROR - Request failed for east liverpool: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=east+liverpool&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:07,118 - INFO - Processing Record 33 of Set 12 | zarzis
+2024-04-10 19:31:07,360 - ERROR - Request failed for zarzis: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=zarzis&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:07,360 - INFO - Processing Record 34 of Set 12 | timbuktu
+2024-04-10 19:31:07,645 - ERROR - Request failed for timbuktu: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=timbuktu&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:07,645 - INFO - Processing Record 35 of Set 12 | zeya
+2024-04-10 19:31:07,958 - ERROR - Request failed for zeya: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=zeya&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:07,959 - INFO - Processing Record 36 of Set 12 | gaspe
+2024-04-10 19:31:08,191 - ERROR - Request failed for gaspe: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=gaspe&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:08,191 - INFO - Processing Record 37 of Set 12 | villa gesell
+2024-04-10 19:31:08,380 - ERROR - Request failed for villa gesell: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=villa+gesell&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:08,380 - INFO - Processing Record 38 of Set 12 | belmonte
+2024-04-10 19:31:08,672 - ERROR - Request failed for belmonte: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=belmonte&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:08,672 - INFO - Processing Record 39 of Set 12 | ellsworth
+2024-04-10 19:31:08,871 - ERROR - Request failed for ellsworth: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ellsworth&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:08,871 - INFO - Processing Record 40 of Set 12 | aleksandrovsk-sakhalinskiy
+2024-04-10 19:31:09,144 - ERROR - Request failed for aleksandrovsk-sakhalinskiy: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=aleksandrovsk-sakhalinskiy&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:09,144 - INFO - Processing Record 41 of Set 12 | devils lake
+2024-04-10 19:31:09,330 - ERROR - Request failed for devils lake: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=devils+lake&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:09,330 - INFO - Processing Record 42 of Set 12 | viedma
+2024-04-10 19:31:09,515 - ERROR - Request failed for viedma: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=viedma&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:09,515 - INFO - Processing Record 43 of Set 12 | ocean pointe
+2024-04-10 19:31:09,740 - ERROR - Request failed for ocean pointe: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=ocean+pointe&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:09,740 - INFO - Processing Record 44 of Set 12 | mersing
+2024-04-10 19:31:09,929 - ERROR - Request failed for mersing: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=mersing&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:09,929 - INFO - Processing Record 45 of Set 12 | sinop
+2024-04-10 19:31:10,114 - ERROR - Request failed for sinop: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=sinop&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:10,114 - INFO - Processing Record 46 of Set 12 | jieshi
+2024-04-10 19:31:10,322 - ERROR - Request failed for jieshi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=jieshi&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:10,323 - INFO - Processing Record 47 of Set 12 | polyarnyy
+2024-04-10 19:31:10,631 - ERROR - Request failed for polyarnyy: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=polyarnyy&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:10,631 - INFO - Processing Record 48 of Set 12 | waingapu
+2024-04-10 19:31:10,845 - ERROR - Request failed for waingapu: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=waingapu&appid=YOUR+KEY+HERE&units=metric
+2024-04-10 19:31:10,846 - INFO - -----------------------------
+2024-04-10 19:31:10,846 - INFO - Data Retrieval Complete
+2024-04-10 19:31:10,846 - INFO - -----------------------------
