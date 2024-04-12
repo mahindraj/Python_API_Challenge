@@ -3,7 +3,7 @@ Python_API_Challenge
 
 Part 1: WeatherPy
 
-For this week's challenge, I was tasked to create scripts to visualise the weather of over 500 cities of varying distances from the ewuator in reference to the OpenWeatherMap API. The task was to create a series of scatter plots to display the following relationships:
+For this week's challenge, I was tasked to create scripts to visualise the weather of over 500 cities of varying distances from the equator in reference to the OpenWeatherMap API. The task was to create a series of scatter plots to display the following relationships:
 1. Latitude vs. Temperature
 2. Latitude vs. Humidity
 3. Latitude vs. Cloudiness
